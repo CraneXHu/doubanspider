@@ -6,7 +6,7 @@ from scrapy.http import Request
 from BeautifulSoup import BeautifulSoup
 from .. import items
 
-sys.stdout=open('E:\Project\doubanspider\doubanspider\output.txt','w')
+#sys.stdout=open('E:\Project\doubanspider\doubanspider\output.txt','w')
 
 class DoubanSpider(BaseSpider):
     name = "douban"

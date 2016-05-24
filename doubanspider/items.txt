@@ -1,24 +1,794 @@
-{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s28584479.jpg", "name": "\u7535\u5f71\u7406\u8bba\u81ea\u4fee\u8bfe", "author": "[\u82f1]\u514b\u8389\u65af\u6c40\u2022\u57c3\u745f\u6797\u987f-\u83b1\u7279"}
-{"grade": " 9.0 ", "picture": "https://img3.doubanio.com/mpic/s28580745.jpg", "name": "\u8003\u53e4\u624b\u8bb0", "author": "\u5fae\u7b11\u7684\u732b"}
-{"grade": " 7.6 ", "picture": "https://img3.doubanio.com/mpic/s28595461.jpg", "name": "\u56db\u5b63\u9910\u684c", "author": "[\u745e\u5178] \u51ef\u745f\u7433\u5a1c\u00b7\u6797\u5fb7\u4f2f\u683c\u00b7\u672c\u6c49\u5fb7\u68ee"}
-{"grade": " 8.1 ", "picture": "https://img3.doubanio.com/mpic/s28524036.jpg", "name": "\u5965\u4e01\u7684\u5b50\u5973", "author": "[\u7231\u5c14\u5170] \u5e15\u5fb7\u91cc\u514b\u00b7\u79d1\u52d2\u59c6"}
-{"grade": " 8.9 ", "picture": "https://img3.doubanio.com/mpic/s28659720.jpg", "name": "\u6211\u9752\u6625\u6f2b\u6e38\u7684\u65f6\u4ee3", "author": "[\u65e5] \u4e09\u5c9b\u7531\u7eaa\u592b"}
-{"grade": " 8.0 ", "picture": "https://img3.doubanio.com/mpic/s28555891.jpg", "name": "\u5343\u9b42", "author": "\u9ad8\u94ed"}
-{"grade": " 9.2 ", "picture": "https://img1.doubanio.com/mpic/s28508217.jpg", "name": "\u4f60\u662f\u6d6a\u5b50\uff0c\u522b\u6cca\u5cb8", "author": "\u674e\u6c90\u6cfd"}
-{"grade": " 8.3 ", "picture": "https://img3.doubanio.com/mpic/s28551490.jpg", "name": "\u4e0d\u662f\u6bcf\u4e2a\u6545\u4e8b\u90fd\u6709\u7ed3\u5c40", "author": "\u738b\u8c56"}
-{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s28687274.jpg", "name": "\u8377\u9a6c3000\u5e74", "author": "\u4e9a\u5f53\u2022\u5c3c\u79d1\u5c14\u68ee"}
-{"grade": " 8.4 ", "picture": "https://img3.doubanio.com/mpic/s28535995.jpg", "name": "\u77e5\u66f4\u9e1f\u5973\u5b69", "author": "[\u7f8e] \u67e5\u514b\u00b7\u6e29\u8fea\u683c"}
-{"grade": " 8.5 ", "picture": "https://img3.doubanio.com/mpic/s28588315.jpg", "name": "\u7cbe\u8fdb", "author": "\u91c7\u94dc"}
-{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s28601567.jpg", "name": "\u8fd9\u5c31\u662f\u6211\u80cc\u53db\u81ea\u5df1\u7684\u65b9\u5f0f", "author": "[\u7f8e] \u827e\u4e3d\u00b7\u5362\u5a1c"}
-{"grade": " 9.2 ", "picture": "https://img1.doubanio.com/mpic/s28660099.jpg", "name": "\u6211\u5c31\u8981\u4f60\u597d\u597d\u7684\uff08\u65b0\u7248\uff09", "author": "\u3010\u82f1\u3011\u4e54\u4e54\u00b7\u83ab\u4f0a\u65af"}
-{"grade": " 7.7 ", "picture": "https://img3.doubanio.com/mpic/s28514376.jpg", "name": "\u61c2\u4e8b\u4e4b\u524d\uff0c\u60c5\u52a8\u4ee5\u540e", "author": "\u8288\u5341\u56db"}
-{"grade": " 9.6 ", "picture": "https://img3.doubanio.com/mpic/s28620490.jpg", "name": "\u7d2b\u9633\u7cfb\u5217", "author": "\u98ce\u5fa1\u4e5d\u79cb"}
-{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s28392811.jpg", "name": "\u901a\u5f80\u5de5\u4e1a\u9769\u547d\u7684\u6f2b\u957f\u9053\u8def", "author": "\uff3b\u8377\uff3d\u626c\u00b7 \u5362\u6ed5\u00b7 \u8303\u8d5e\u767b van Zanden, Jan Luiten"}
-{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s7731954.jpg", "name": "Seasonal Table Settings", "author": "Lindeberg-Bernhardsson, Catharina; Person, Roland;"}
-{"grade": " 8.4 ", "picture": "https://img3.doubanio.com/mpic/s2998096.jpg", "name": "\u966a\u5b89\u4e1c\u5c3c\u5ea6\u8fc7\u6f2b\u957f\u5c81\u6708", "author": "\u5b89\u4e1c\u5c3c"}
-{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s6983313.jpg", "name": "Elementarbuch Des Sanskrit (1888)", "author": "Wilhelm Geiger"}
-{"grade": " 8.9 ", "picture": "https://img3.doubanio.com/mpic/s1072746.jpg", "name": "\u54c8\u5229\u00b7\u6ce2\u7279\u4e0e\u706b\u7130\u676f", "author": "[\u82f1] J. K. \u7f57\u7433"}
-{"grade": " 8.6 ", "picture": "https://img3.doubanio.com/mpic/s4599550.jpg", "name": "\u534e\u80e5\u5f15\uff08\u5168\u4e8c\u518c\uff09", "author": "\u5510\u4e03\u516c\u5b50"}
-{"grade": " 9.0 ", "picture": "https://img1.doubanio.com/mpic/s4575849.jpg", "name": "\u5bfb\u8def\u4e2d\u56fd", "author": "[\u7f8e] \u5f7c\u5f97\u00b7\u6d77\u65af\u52d2"}
-{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s3872437.jpg", "name": "\u79c1\u306e\u904d\u6b74\u6642\u4ee3", "author": "\u4e09\u5cf6\u7531\u7d00\u592b"}
-{"grade": " 8.8 ", "picture": "https://img3.doubanio.com/mpic/s27062805.jpg", "name": "\u6211\u9752\u6625\u6f2b\u904a\u7684\u6642\u4ee3", "author": "\u4e09\u5cf6\u7531\u7d00\u592b"}
+{"grade": " 8.9 ", "picture": "https://img3.doubanio.com/mpic/s28625383.jpg", "name": "\u767e\u5668\u5f92\u7136\u888b\u2014\u2014\u98ce", "author": "(\u65e5) \u4eac\u6781\u590f\u5f66"}
+{"grade": " 9.0 ", "picture": "https://img1.doubanio.com/mpic/s28643817.jpg", "name": "\u597d\u597d\u5730\u5403\u4e00\u6735\u897f\u84dd\u82b1", "author": "\u4e54\u8fe6"}
+{"grade": " 8.6 ", "picture": "https://img3.doubanio.com/mpic/s28604380.jpg", "name": "\u6bd4\u5229\u6218\u4e89", "author": "[\u7f8e]\u4e39\u5c3c\u5c14\u00b7\u51ef\u65af"}
+{"grade": " 8.5 ", "picture": "https://img3.doubanio.com/mpic/s28606531.jpg", "name": "\u5173\u952e\u6d1e\u5bdf\u529b", "author": "\u3010\u7f8e\u3011\u7f57\u4f2f\u7279\u2022\u5229\u592b"}
+{"grade": " 8.2 ", "picture": "https://img3.doubanio.com/mpic/s28627105.jpg", "name": "\u4e03\u5802\u6781\u7b80\u7269\u7406\u8bfe", "author": "\u3010\u610f\u3011\u5361\u6d1b\u00b7\u7f57\u97e6\u5229"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s28606578.jpg", "name": "\u70c8\u706b\u7684\u53ec\u5524", "author": "[\u7f8e] \u5f17\u6717\u897f\u65af\u5361\u00b7\u6d77\u683c"}
+{"grade": " 9.5 ", "picture": "https://img3.doubanio.com/mpic/s28561075.jpg", "name": "\u9762\u7eb1", "author": "\u5a01\u5ec9\u00b7\u8428\u9ed8\u585e\u7279\u00b7\u6bdb\u59c6"}
+{"grade": " 8.3 ", "picture": "https://img3.doubanio.com/mpic/s28671476.jpg", "name": "\u67e5\u4ee4\u5341\u5b57\u885784\u53f7", "author": "[\u7f8e] \u6d77\u83b2\u00b7\u6c49\u8299"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s28745532.jpg", "name": "\u6625\u7434\u6284", "author": "[\u65e5]\u8c37\u5d0e\u6da6\u4e00\u90ce"}
+{"grade": " 9.1 ", "picture": "https://img3.doubanio.com/mpic/s28502251.jpg", "name": "\u9ed1\u9e8b\u9e7f\u5982\u662f\u8bf4", "author": "[\u7f8e] \u5c3c\u53e4\u62c9\u65af\u00b7\u9ed1\u9e8b\u9e7f (\u53e3\u8ff0)"}
+{"grade": " 8.2 ", "picture": "https://img3.doubanio.com/mpic/s28641311.jpg", "name": "\u51e4\u56da\u51f0\uff08\u51683\u518c\uff09", "author": "\u5929\u8863\u6709\u98ce"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s28623209.jpg", "name": "\u611f\u77e5\u827a\u672f", "author": "[\u7f8e]\u4e39\u5c3c\u65af\u00b7J.\u65af\u6ce2\u52d2"}
+{"grade": " 7.4 ", "picture": "https://img3.doubanio.com/mpic/s28606475.jpg", "name": "\u5e1d\u56fd\u4e4b\u5f27", "author": "\u4e54\u826f"}
+{"grade": " 7.9 ", "picture": "https://img1.doubanio.com/mpic/s28626857.jpg", "name": "\u51f8\u6cd5\u5219", "author": "[\u7f8e]\u5c71\u59c6\u2022\u6d2a\u6069"}
+{"grade": " 9.1 ", "picture": "https://img1.doubanio.com/mpic/s28386008.jpg", "name": "\u4e00\u4e5d\u3007\u516d\uff1a\u82f1\u4f26\u4e61\u91ce\u624b\u8bb0", "author": "[\u82f1]\u4f0a\u8fea\u4e1d\u00b7\u970d\u5c14\u767b"}
+{"grade": " 7.8 ", "picture": "https://img3.doubanio.com/mpic/s28580542.jpg", "name": "\u7cbe\u795e\u75c5\u60a3", "author": "[\u7f8e]\u5a01\u5ec9\u00b7\u5f7c\u5f97\u00b7\u5e03\u62c9\u8482"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s28384458.jpg", "name": "\u5f71\u821e", "author": "[\u82f1] \u5b89\u5409\u62c9\u00b7\u5361\u7279"}
+{"grade": " 8.8 ", "picture": "https://img3.doubanio.com/mpic/s4250062.jpg", "name": "\u50b2\u6162\u4e0e\u504f\u89c1", "author": "[\u82f1] \u5965\u65af\u4e01"}
+{"grade": " 7.2 ", "picture": "https://img3.doubanio.com/mpic/s3374765.jpg", "name": "\u539f\u6765\u4f60\u975e\u4e0d\u5feb\u4e50", "author": "\u6797\u5915"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s3585337.jpg", "name": "\u767e\u5668\u5f92\u7136\u888b \u98a8", "author": "\u4eac\u6975 \u590f\u5f66"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s3585395.jpg", "name": "\u6587\u5eab\u7248 \u767e\u5668\u5f92\u7136\u888b\u2015\u98a8", "author": "\u4eac\u6975 \u590f\u5f66"}
+{"grade": " 8.5 ", "picture": "https://img1.doubanio.com/mpic/s27302648.jpg", "name": "\u6bd4\u5229\u6230\u722d", "author": "\u4e39\u5c3c\u723e.\u51f1\u65af(Daniel Keyes)"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s28349060.jpg", "name": "The Fire Sermon", "author": "Francesca Haig"}
+{"grade": " 8.2 ", "picture": "https://img3.doubanio.com/mpic/s1630000.jpg", "name": "\u5f69\u8272\u7684\u9762\u7eb1", "author": "\u6bdb\u59c6"}
+{"grade": " 8.6 ", "picture": "https://img1.doubanio.com/mpic/s4842047.jpg", "name": "84 Charing Cross Road", "author": "Helene Hanff"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s1647403.jpg", "name": "\u5deb\u58eb\u8a69\u4eba\u795e\u8a71", "author": "\u7d04\u7ff0\u2027\u5167\u54c8\u7279"}
+{"grade": " 8.6 ", "picture": "https://img1.doubanio.com/mpic/s4098729.jpg", "name": "\u67e5\u4ee4\u5341\u5b57\u8def84\u865f", "author": "\u6d77\u84ee\u00b7\u6f22\u8299"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s27316507.jpg", "name": "Black Elk Speaks: The Complete Edition", "author": "John G. Neihardt (Author),"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s2755764.jpg", "name": "Black Elk Speaks", "author": "John G. Neihardt"}
+{"grade": " 8.0 ", "picture": "https://img3.doubanio.com/mpic/s6935364.jpg", "name": "\u53e4\u5178\u65f6\u671f\u7684\u56fe\u4e66\u4e16\u754c", "author": "(\u8377\u5170)H.L.\u76ae\u7eb3"}
+{"grade": " 8.1 ", "picture": "https://img1.doubanio.com/mpic/s2971868.jpg", "name": "\u9ed1\u9e8b\u9e7f\u5982\u662f\u8bf4", "author": "\u7ea6\u00b7\u5948\u54c8\u7279"}
+{"grade": " 8.8 ", "picture": "https://img3.doubanio.com/mpic/s26541806.jpg", "name": "\u795e\u79d8\u7684\u964c\u751f\u4eba", "author": "[\u7f8e]\u9a6c\u514b\u00b7\u5410\u6e29"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s28425862.jpg", "name": "\u6d2a\u6c34\u4e4b\u5e74", "author": "[\u52a0\u62ff\u5927] \u739b\u683c\u4e3d\u7279\u00b7\u963f\u7279\u4f0d\u5fb7"}
+{"grade": " 7.4 ", "picture": "https://img3.doubanio.com/mpic/s3681555.jpg", "name": "\u66fe\u7ecf", "author": "\u6797\u5915"}
+{"grade": " 8.7 ", "picture": "https://img3.doubanio.com/mpic/s28241753.jpg", "name": "\u9a71\u9b54\u4eba", "author": "[\u7f8e]\u5a01\u5ec9\u00b7\u5f7c\u5f97\u00b7\u5e03\u62c9\u8482"}
+{"grade": " 8.5 ", "picture": "https://img3.doubanio.com/mpic/s5924326.jpg", "name": "\u7b80\u7231", "author": "[\u82f1] \u590f\u6d1b\u8482\u00b7\u52c3\u6717\u7279"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s3585329.jpg", "name": "\u767e\u5668\u5f92\u7136\u888b\u2015\u96e8", "author": "\u4eac\u6975 \u590f\u5f66"}
+{"grade": " 9.0 ", "picture": "https://img1.doubanio.com/mpic/s1816799.jpg", "name": "\u50b2\u6162\u4e0e\u504f\u89c1", "author": "[\u82f1] \u7b80\u00b7\u5965\u65af\u4e01"}
+{"grade": " 8.3 ", "picture": "https://img3.doubanio.com/mpic/s26846213.jpg", "name": "\u89c2\u5ff5\u7684\u6c34\u4f4d", "author": "\u5218\u745c"}
+{"grade": " 8.0 ", "picture": "https://img3.doubanio.com/mpic/s3674611.jpg", "name": "\u5361\u5854\u4e3d\u5a1c\u4f20\u5947", "author": "\u6bdb\u59c6"}
+{"grade": " 8.6 ", "picture": "https://img1.doubanio.com/mpic/s1100627.jpg", "name": "\u54c8\u5229\u00b7\u6ce2\u7279\u4e0e\u51e4\u51f0\u793e", "author": "[\u82f1] J. K. \u7f57\u7433"}
+{"grade": " 8.9 ", "picture": "https://img1.doubanio.com/mpic/s2752367.jpg", "name": "\u54c8\u5229\u00b7\u6ce2\u7279\u4e0e\u6b7b\u4ea1\u5723\u5668", "author": "[\u82f1] J. K. \u7f57\u7433"}
+{"grade": " 8.1 ", "picture": "https://img3.doubanio.com/mpic/s1914485.jpg", "name": "\u5929\u4f7f\u4e0e\u9b54\u9b3c", "author": "[\u7f8e] \u4e39.\u5e03\u6717"}
+{"grade": " 9.0 ", "picture": "https://img3.doubanio.com/mpic/s1732405.jpg", "name": "\u6885\u5ca1\u57ce\u6545\u4e8b", "author": "\u54c8\u6ce2\uff0e\u674e"}
+{"grade": " 7.3 ", "picture": "https://img3.doubanio.com/mpic/s2188670.jpg", "name": "\u7368\u89d2\u4eba", "author": "James Lasdun"}
+{"grade": " 8.7 ", "picture": "https://img1.doubanio.com/mpic/s12380718.jpg", "name": "\u53e4\u5e0c\u814a\u7f57\u9a6c\u7684\u56fe\u4e66\u4e0e\u8bfb\u8005", "author": "(\u82f1)\u5f17\u96f7\u5fb7\u91cc\u514b\u00b7G.\u51ef\u5c3c\u6069"}
+{"grade": " 8.4 ", "picture": "https://img1.doubanio.com/mpic/s27302649.jpg", "name": "24\u500b\u6bd4\u5229", "author": "\u4e39\u5c3c\u723e.\u51f1\u65af(Daniel Keyes)"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s3314679.jpg", "name": "44\u53f7\u2014\u2014\u795e\u79d8\u7684\u964c\u751f\u4eba", "author": "\u9a6c\u514b.\u5410\u6e29"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s2718370.jpg", "name": "\u795e\u79d8\u7684\u964c\u751f\u4eba", "author": "(\u7f8e)\u9a6c\u514b\u00b7\u5410\u6e29"}
+{"grade": " 8.0 ", "picture": "https://img1.doubanio.com/mpic/s2804388.jpg", "name": "\u795e\u79d8\u7684\u964c\u751f\u4eba", "author": "\u99ac\u514b\u00b7\u5410\u6eab"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s4744421.jpg", "name": "The Year of the Flood", "author": "Margaret Atwood"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s5597135.jpg", "name": "The Year of the Flood", "author": "Margaret Atwood"}
+{"grade": " 7.7 ", "picture": "https://img3.doubanio.com/mpic/s1669361.jpg", "name": "\u9003\u8dd1", "author": "\u8ba9-\u83f2\u5229\u666e\u00b7\u56fe\u68ee"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s6896333.jpg", "name": "Catalina", "author": "W. Somerset Maugham"}
+{"grade": " 8.5 ", "picture": "https://img3.doubanio.com/mpic/s1075773.jpg", "name": "\u7b80\u30fb\u7231", "author": "\u590f\u6d1b\u8482\u30fb\u52c3\u6717\u7279"}
+{"grade": " 8.6 ", "picture": "https://img1.doubanio.com/mpic/s1432807.jpg", "name": "\u54c8\u5229\u6ce2\u72795 \u9cf3\u51f0\u6703\u7684\u5bc6\u4ee4", "author": "J. K. Rowling"}
+{"grade": " 9.1 ", "picture": "https://img3.doubanio.com/mpic/s2990845.jpg", "name": "\u50b2\u6162\u4e0e\u504f\u89c1", "author": "(\u82f1\u56fd)\u7b80\u00b7\u5965\u65af\u4e01"}
+{"grade": " 8.7 ", "picture": "https://img1.doubanio.com/mpic/s2352098.jpg", "name": "Harry Potter and the Order of the Phoenix", "author": "J.K.Rowling"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s26010820.jpg", "name": "\u795e\u79d8\u7684\u964c\u751f\u4eba", "author": "[\u7f8e]\u9a6c\u514b\u00b7\u5410\u6e29"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s1375592.jpg", "name": "\u73fe\u5728\u8a6903\uff1a\u8a69\u7684\u4e82\u4e16\u8207\u76db\u4e16", "author": "\u9d3b\u9d3b\u4e3b\u7de8"}
+{"grade": " 9.1 ", "picture": "https://img3.doubanio.com/mpic/s2386391.jpg", "name": "Harry Potter and the Deathly Hallows U.K Adult Edition", "author": "J.K. Rowling"}
+{"grade": " 9.0 ", "picture": "https://img3.doubanio.com/mpic/s3895890.jpg", "name": "\u96aa\u8def", "author": "\u6208\u99ac\u514b\u00b7\u9ea5\u5361\u932b"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s28108442.jpg", "name": "\u65e5\u672c\u7684\u793e\u4f1a\u4e0e\u6587\u5316", "author": "[\u65e5]\u4f0a\u85e4\u516c\u96c4"}
+{"grade": " 8.4 ", "picture": "https://img3.doubanio.com/mpic/s26030600.jpg", "name": "24\u500b\u6bd4\u5229", "author": "\u4e39\u5c3c\u723e\u2027\u51f1\u65af"}
+{"grade": " 8.1 ", "picture": "https://img3.doubanio.com/mpic/s4431591.jpg", "name": "\u68a6\u4fa6\u63a2", "author": "(\u65e5) \u7b52\u4e95\u5eb7\u9686"}
+{"grade": " 8.5 ", "picture": "https://img3.doubanio.com/mpic/s26031272.jpg", "name": "\u975e\u66b4\u529b\u6c9f\u901a", "author": "[\u7f8e] \u9a6c\u6b47\u5c14\u00b7\u5362\u68ee\u5821"}
+{"grade": " 8.4 ", "picture": "https://img1.doubanio.com/mpic/s1091698.jpg", "name": "\u4e0d\u80fd\u627f\u53d7\u7684\u751f\u547d\u4e4b\u8f7b", "author": "[\u6377\u514b] \u7c73\u5170\u00b7\u6606\u5fb7\u62c9"}
+{"grade": " 8.3 ", "picture": "https://img1.doubanio.com/mpic/s6340977.jpg", "name": "\u5929\u624d\u5728\u5de6 \u75af\u5b50\u5728\u53f3", "author": "\u9ad8\u94ed"}
+{"grade": " 8.8 ", "picture": "https://img3.doubanio.com/mpic/s1993421.jpg", "name": "\u6b63\u89c1", "author": "\u5b97\u8428\u848b\u626c\u94a6\u54f2\u4ec1\u6ce2\u5207"}
+{"grade": " 8.2 ", "picture": "https://img3.doubanio.com/mpic/s9892475.jpg", "name": "\u8fdf\u7591\u00b7\u7535\u89c6\u00b7\u81ea\u753b\u50cf", "author": "\uff08\u6bd4\uff09\u56fe\u68ee"}
+{"grade": " 7.6 ", "picture": "https://img1.doubanio.com/mpic/s27528589.jpg", "name": "\u9003\u8dd1", "author": "\u3014\u6bd4\u5229\u65f6\u3015\u8ba9-\u83f2\u5229\u666e\u00b7\u56fe\u68ee Jean-Philippe Toussaint"}
+{"grade": " 9.0 ", "picture": "https://img3.doubanio.com/mpic/s1664135.jpg", "name": "\u706b\u76c3\u7684\u8003\u9a57", "author": "J.K. \u7f85\u7433"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s1648481.jpg", "name": "\u73fe\u5728\u8a6904", "author": "\u963f\u7fc1"}
+{"grade": " 8.9 ", "picture": "https://img1.doubanio.com/mpic/s4588739.jpg", "name": "Harry Potter and the Half-Blood Prince", "author": "J. K. Rowling"}
+{"grade": " 8.5 ", "picture": "https://img1.doubanio.com/mpic/s4215409.jpg", "name": "\u73ab\u7470\u7684\u540d\u5b57", "author": "[\u610f] \u7fc1\u8d1d\u6258\u00b7\u57c3\u79d1"}
+{"grade": " 7.6 ", "picture": "https://img1.doubanio.com/mpic/s26687048.jpg", "name": "\u8ba9\u00b7\u827e\u4ec0\u8bfa\u5179", "author": "\u52d2\u5e03\u4f26"}
+{"grade": " 8.0 ", "picture": "https://img1.doubanio.com/mpic/s1950119.jpg", "name": "\u53cd\u590d", "author": "[\u6cd5] \u963f\u5170\u00b7\u7f57\u4f2f-\u683c\u91cc\u8036"}
+{"grade": " 9.2 ", "picture": "https://img3.doubanio.com/mpic/s6384944.jpg", "name": "\u767e\u5e74\u5b64\u72ec", "author": "[\u54e5\u4f26\u6bd4\u4e9a] \u52a0\u897f\u4e9a\u00b7\u9a6c\u5c14\u514b\u65af"}
+{"grade": " 7.4 ", "picture": "https://img3.doubanio.com/mpic/s3627701.jpg", "name": "No Country for Old Men", "author": "Cormac McCarthy"}
+{"grade": " 8.4 ", "picture": "https://img3.doubanio.com/mpic/s27913825.jpg", "name": "\u5510\u4eba\u9009\u5510\u8bd7\u65b0\u7f16\uff08\u589e\u8ba2\u672c\uff09", "author": "\u5085\u7487\u742e"}
+{"grade": " 7.6 ", "picture": "https://img1.doubanio.com/mpic/s6942229.jpg", "name": "\u7261\u86ce\u7537\u5b69\u5fe7\u90c1\u4e4b\u6b7b", "author": "(\u7f8e)\u8482\u59c6\u00b7\u4f2f\u987f"}
+{"grade": " 8.2 ", "picture": "https://img3.doubanio.com/mpic/s4402043.jpg", "name": "\u56db\u53e0\u534a\u795e\u8bdd\u5927\u7cfb", "author": "(\u65e5) \u68ee\u89c1\u767b\u7f8e\u5f66"}
+{"grade": " 9.6 ", "picture": "https://img3.doubanio.com/mpic/s3219163.jpg", "name": "\u827a\u672f\u7684\u6545\u4e8b", "author": "[\u82f1] \u8d21\u5e03\u91cc\u5e0c (Sir E.H.Gombrich)"}
+{"grade": " 8.4 ", "picture": "https://img3.doubanio.com/mpic/s1132442.jpg", "name": "\u8c08\u8bdd\u7684\u529b\u91cf", "author": "\uff08\u7f8e\uff09\u827e\u4f26\u30fb\u52a0\u7eb3"}
+{"grade": " 7.6 ", "picture": "https://img1.doubanio.com/mpic/s27528588.jpg", "name": "\u9f50\u8fbe\u5185\u7684\u5fe7\u90c1", "author": "\u3014\u6bd4\u5229\u65f6\u3015\u8ba9-\u83f2\u5229\u666e\u00b7\u56fe\u68ee Jean-Philippe Toussaint"}
+{"grade": " 9.2 ", "picture": "https://img1.doubanio.com/mpic/s2609949.jpg", "name": "Harry Potter and the Chamber of Secrets", "author": "J.K. Rowling"}
+{"grade": " 9.1 ", "picture": "https://img3.doubanio.com/mpic/s11453365.jpg", "name": "The Unbearable Lightness of Being", "author": "Milan Kundera"}
+{"grade": " 9.0 ", "picture": "https://img1.doubanio.com/mpic/s3163437.jpg", "name": "\u8fd1\u4e4e\u4f5b\u6559\u5f92", "author": "\u5b97\u8428\u848b\u626c\u94a6\u54f2\u4ec1\u6ce2\u5207"}
+{"grade": " 8.6 ", "picture": "https://img1.doubanio.com/mpic/s4436919.jpg", "name": "\u760b\u5b50\u7684\u4e16\u754c", "author": "\u9ad8\u9298"}
+{"grade": " 7.4 ", "picture": "https://img3.doubanio.com/mpic/s28335275.jpg", "name": "\u4e09\u5b54\u6865", "author": "[\u963f\u5c14\u5df4\u5c3c\u4e9a]\u4f0a\u65af\u6885\u5c14\u2022\u5361\u8fbe\u83b1"}
+{"grade": " 9.2 ", "picture": "https://img1.doubanio.com/mpic/s11893997.jpg", "name": "Harry Potter and the Goblet of Fire", "author": "J.K. Rowling"}
+{"grade": " 8.1 ", "picture": "https://img3.doubanio.com/mpic/s4139861.jpg", "name": "\u5996\u602a\u7d14\u60c5\u8a69", "author": "\u590f\u5b87"}
+{"grade": " 8.7 ", "picture": "https://img3.doubanio.com/mpic/s26912782.jpg", "name": "\u5927\u96c4", "author": "\u9be8\u5411\u6d77"}
+{"grade": " 8.4 ", "picture": "https://img3.doubanio.com/mpic/s1507751.jpg", "name": "\u7cbe\u795e\u75c5\u9662", "author": "\u9be8\u5411\u6d77"}
+{"grade": " 9.0 ", "picture": "https://img1.doubanio.com/mpic/s3983958.jpg", "name": "\u4eba\u751f\u7684\u67b7\u9501", "author": "[\u82f1] \u6bdb\u59c6"}
+{"grade": " 8.0 ", "picture": "https://img1.doubanio.com/mpic/s6870889.jpg", "name": "\u5b89\u5409\u62c9\u00b7\u5361\u7279\u7684\u7cbe\u602a\u6545\u4e8b\u96c6", "author": "[\u82f1] \u5b89\u5409\u62c9\u00b7\u5361\u7279"}
+{"grade": " 7.9 ", "picture": "https://img3.doubanio.com/mpic/s3917605.jpg", "name": "\u56db\u7573\u534a\u795e\u8a71\u5927\u7cfb", "author": "\u68ee\u898b\u767b\u7f8e\u5f66"}
+{"grade": " 8.7 ", "picture": "https://img3.doubanio.com/mpic/s6879905.jpg", "name": "\u300a\u827a\u672f\u7684\u6545\u4e8b\u300b\u7b3a\u6ce8", "author": "\u8303\u666f\u4e2d"}
+{"grade": " 9.1 ", "picture": "https://img1.doubanio.com/mpic/s2344238.jpg", "name": "\u767e\u5e74\u5b64\u72ec", "author": "\u52a0\u897f\u4e9a\u00b7\u9a6c\u5c14\u514b\u65af"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s28276583.jpg", "name": "Conversationally Speaking", "author": "Alan Garner"}
+{"grade": " 9.0 ", "picture": "https://img3.doubanio.com/mpic/s1045302.jpg", "name": "\u767e\u5e74\u5b64\u72ec", "author": "\uff08\u54e5\u4f26\u6bd4\u4e9a\uff09\u52a0\u897f\u4e9a\u30fb\u9a6c\u5c14\u514b\u65af"}
+{"grade": " 7.5 ", "picture": "https://img3.doubanio.com/mpic/s28347051.jpg", "name": "\u738b\u5bb6\u5927\u9053", "author": "(\u6cd5)\u5b89\u5fb7\u70c8\u00b7\u9a6c\u5c14\u7f57"}
+{"grade": " 8.2 ", "picture": "https://img1.doubanio.com/mpic/s27528587.jpg", "name": "\u6025\u8feb\u4e0e\u5fcd\u8010", "author": "\u3014\u6bd4\u5229\u65f6\u3015\u8ba9-\u83f2\u5229\u666e\u00b7\u56fe\u68ee Jean-Philippe Toussaint"}
+{"grade": " 7.3 ", "picture": "https://img3.doubanio.com/mpic/s27528590.jpg", "name": "\u739b\u4e3d\u7684\u771f\u76f8", "author": "\u3014\u6bd4\u5229\u65f6\u3015\u8ba9-\u83f2\u5229\u666e\u00b7\u56fe\u68ee Jean-Philippe Toussaint"}
+{"grade": " 8.5 ", "picture": "https://img3.doubanio.com/mpic/s3030002.jpg", "name": "\u8e0f\u4e0a\u5fc3\u9748\u5e7d\u5f91\uff0d\u7a7f\u8d8a\u56f0\u5883\u7684\u9748\u6027\u751f\u6d3b\u6307\u5f15", "author": "Jack Kornfield"}
+{"grade": " 7.0 ", "picture": "https://img1.doubanio.com/mpic/s4569638.jpg", "name": "\u4eba\u4eba\u90fd\u80fd\u68a6\u7684\u89e3\u6790", "author": "\u9ad8\u94ed"}
+{"grade": " 7.2 ", "picture": "https://img1.doubanio.com/mpic/s27260998.jpg", "name": "\u5c0f\u4e16\u754c", "author": "(\u745e\u58eb)\u9a6c\u4e01\u00b7\u82cf\u7279"}
+{"grade": " 7.3 ", "picture": "https://img3.doubanio.com/mpic/s28383642.jpg", "name": "\u8c1b\u542c\u9a6c\u62c9\u5580\u4ec0", "author": "[\u82f1] \u57c3\u5229\u4e9a\u65af\u00b7\u5361\u5185\u8482"}
+{"grade": " 7.7 ", "picture": "https://img1.doubanio.com/mpic/s3960358.jpg", "name": "\u5973\u5b69\u99ac\u529b\u8207\u58c1\u62d4\u5c11\u5e74", "author": "\u9d3b\u9d3b"}
+{"grade": " 8.7 ", "picture": "https://img3.doubanio.com/mpic/s1432314.jpg", "name": "\u6469\u64e6\uff0e\u7121\u4ee5\u540d\u72c0", "author": "\u590f\u5b87"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s4721044.jpg", "name": "\u885b\u751f\u7d19\u8a69\u520a+ 11", "author": "\u9d3b\u9d3b"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s4721067.jpg", "name": "\u885b\u751f\u7d19\u8a69\u520a+ 03", "author": "\u5411\u660e"}
+{"grade": " 9.0 ", "picture": "https://img3.doubanio.com/mpic/s2347562.jpg", "name": "\u5200\u950b", "author": "[\u82f1]\u6bdb\u59c6"}
+{"grade": " 8.8 ", "picture": "https://img1.doubanio.com/mpic/s1362047.jpg", "name": "\u6cbf\u6d77\u5cb8\u7dda\u5fb5\u53cb", "author": "\u9be8\u5411\u6d77"}
+{"grade": " 7.7 ", "picture": "https://img1.doubanio.com/mpic/s27986038.jpg", "name": "A\u5922", "author": "\u9be8\u5411\u6d77"}
+{"grade": " 9.3 ", "picture": "https://img3.doubanio.com/mpic/s4700364.jpg", "name": "\u4e2d\u534e\u7af9\u97f5", "author": "\u8bb8\u6c5f \u4e3b\u7f16"}
+{"grade": " 7.8 ", "picture": "https://img1.doubanio.com/mpic/s4171178.jpg", "name": "\u592a\u967d\u306e\u5854", "author": "\u68ee\u898b\u767b\u7f8e\u5f66"}
+{"grade": " 8.8 ", "picture": "https://img3.doubanio.com/mpic/s3348622.jpg", "name": "Mistakes Were Made", "author": "Carol Tavris"}
+{"grade": " 8.2 ", "picture": "https://img3.doubanio.com/mpic/s1796880.jpg", "name": "\u738b\u5bb6\u5927\u9053", "author": "\uff08\u6cd5\uff09\u5b89\u5fb7\u70c8\u00b7\u9a6c\u5c14\u7f57"}
+{"grade": " 6.9 ", "picture": "https://img1.doubanio.com/mpic/s3443637.jpg", "name": "\u738b\u5bb6\u5927\u9053", "author": "(\u6cd5)\u9a6c\u5c14\u7f57"}
+{"grade": " 7.2 ", "picture": "https://img1.doubanio.com/mpic/s6478329.jpg", "name": "\u746a\u9e97\u7684\u771f\u76f8", "author": "\u8b93\uff0d\u83f2\u5229\u6d66\u2027\u5716\u68ee(Jean-Philippe Toussaint)"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s7664269.jpg", "name": "\u667a\u6167\u7684\u5fc3", "author": "\u3010\u7f8e\u3011\u6770\u514b\u00b7\u5eb7\u83f2\u5c14\u5fb7"}
+{"grade": " 7.9 ", "picture": "https://img1.doubanio.com/mpic/s27141498.jpg", "name": "\u6708\u4eae\u7684\u9634\u9762", "author": "(\u745e\u58eb)\u9a6c\u4e01\u00b7\u82cf\u7279"}
+{"grade": " 7.4 ", "picture": "https://img3.doubanio.com/mpic/s27036412.jpg", "name": "\u96be\u4ea7", "author": "(\u5965)\u8d1d\u683c\u5c14"}
+{"grade": " 9.0 ", "picture": "https://img3.doubanio.com/mpic/s4682836.jpg", "name": "\u8e0f\u4e0a\u5fc3\u7075\u5e7d\u5f84", "author": "\u6770\u514b\u00b7\u5eb7\u83f2\u5c14\u5fb7"}
+{"grade": " 8.5 ", "picture": "https://img1.doubanio.com/mpic/s10321389.jpg", "name": "\u82e6\u5929\u4f7f", "author": "\u5ed6\u5049\u68e0"}
+{"grade": " 9.1 ", "picture": "https://img1.doubanio.com/mpic/s7009197.jpg", "name": "\u8a6960\u9996", "author": "\u590f\u5b87"}
+{"grade": " 7.6 ", "picture": "https://img3.doubanio.com/mpic/s2732804.jpg", "name": "\u4e00\u4e2a\u4eba\u7684\u597d\u5929\u6c14", "author": "[\u65e5] \u9752\u5c71\u4e03\u60e0"}
+{"grade": " 8.2 ", "picture": "https://img3.doubanio.com/mpic/s3441411.jpg", "name": "\u5b64\u72ec\u53ca\u5176\u6240\u521b\u9020\u7684", "author": "[\u7f8e] \u4fdd\u7f57\u00b7\u5965\u65af\u7279"}
+{"grade": " 7.6 ", "picture": "https://img3.doubanio.com/mpic/s4086054.jpg", "name": "\u592a\u967d\u306e\u5854", "author": "\u68ee\u898b \u767b\u7f8e\u5f66"}
+{"grade": " 8.2 ", "picture": "https://img1.doubanio.com/mpic/s4510568.jpg", "name": "\u6625\u5929\u8d23\u5907", "author": "\u5468\u4e91\u84ec"}
+{"grade": " 8.9 ", "picture": "https://img3.doubanio.com/mpic/s7063975.jpg", "name": "How We Know What Isn&#39;t So", "author": "Thomas Gilovich"}
+{"grade": " 9.0 ", "picture": "https://img1.doubanio.com/mpic/s9009429.jpg", "name": "\u5200\u950b", "author": "[\u82f1] \u6bdb\u59c6"}
+{"grade": " 7.7 ", "picture": "https://img3.doubanio.com/mpic/s2894720.jpg", "name": "\u91d1\u5361\u65af\u00b7\u535a\u5c14\u5df4", "author": "\u3010\u5df4\u897f\u3011\u9a6c\u67e5\u591a\u00b7\u5fb7\u00b7\u963f\u897f\u65af"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s4517939.jpg", "name": "\u7ea6\u7ff0\u00b7\u5730\u72f1", "author": "[\u6cd5] \u8fea\u8fea\u53f6\u00b7\u5fb7\u5e93\u5b89"}
+{"grade": " 9.0 ", "picture": "https://img3.doubanio.com/mpic/s1631931.jpg", "name": "\u5200\u950b", "author": "[\u82f1] \u5a01\u5ec9\u00b7\u8428\u9ed8\u585e\u7279\u00b7\u6bdb\u59c6"}
+{"grade": " 6.5 ", "picture": "https://img3.doubanio.com/mpic/s27099535.jpg", "name": "\u9ed1\u767d", "author": "(\u65e5)\u8c37\u5d0e\u6da6\u4e00\u90ce"}
+{"grade": " 8.8 ", "picture": "https://img1.doubanio.com/mpic/s6568798.jpg", "name": "\u6167\u5fc3\u81ea\u5728", "author": "\u6770\u514b\u00b7\u5eb7\u83f2\u5c14\u5fb7"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s4270423.jpg", "name": "The Wise Heart", "author": "Jack Kornfield"}
+{"grade": " 8.6 ", "picture": "https://img3.doubanio.com/mpic/s1354852.jpg", "name": "\u8d85\u8d8a\u81ea\u6211\u4e4b\u9053", "author": "\u7f85\u5091.\u6e25"}
+{"grade": " 8.7 ", "picture": "https://img1.doubanio.com/mpic/s4682849.jpg", "name": "\u5b81\u9759\u7684\u68ee\u6797\u6c34\u6c60", "author": "\uff08\u7f8e\uff09\u6770\u514b\u2022\u5eb7\u83f2\u5c14\u5fb7  \u4fdd\u7f57\u2022\u5e03\u91cc\u7279"}
+{"grade": " 8.9 ", "picture": "https://img3.doubanio.com/mpic/s24976756.jpg", "name": "88\u9996\u81ea\u9078", "author": "\u590f\u5b87"}
+{"grade": " 7.1 ", "picture": "https://img3.doubanio.com/mpic/s1992753.jpg", "name": "\u8aaa\u66f8\u4eba\uff1a\u95b1\u8b80\u8207\u8a55\u8ad6\u5408\u96c6", "author": "\u8463\u555f\u7ae0"}
+{"grade": " 9.1 ", "picture": "https://img3.doubanio.com/mpic/s24439266.jpg", "name": "\u8759\u8760\u8207\u544a\u5225\u8005", "author": "\u9ec3\u78a7\u96f2"}
+{"grade": " 8.4 ", "picture": "https://img3.doubanio.com/mpic/s1394580.jpg", "name": "\u4f4e\u4fdd\u771f", "author": "\u9673\u6ec5"}
+{"grade": " 8.0 ", "picture": "https://img1.doubanio.com/mpic/s4080068.jpg", "name": "\u5df7\u8bf4\u767e\u7269\u8bed", "author": "[\u65e5]\u4eac\u6781\u590f\u5f66"}
+{"grade": " 9.1 ", "picture": "https://img3.doubanio.com/mpic/s11345756.jpg", "name": "Nonsense", "author": "Robert J. Gula"}
+{"grade": " 8.2 ", "picture": "https://img3.doubanio.com/mpic/s4001891.jpg", "name": "\u5b64\u7368\u53ca\u5176\u6240\u5275\u9020\u7684", "author": "Paul Auster"}
+{"grade": " 8.5 ", "picture": "https://img3.doubanio.com/mpic/s22714660.jpg", "name": "\u91cc\u5c14\u514b\u8bd7\u9009", "author": "[\u5965] \u91cc\u5c14\u514b"}
+{"grade": " 8.9 ", "picture": "https://img3.doubanio.com/mpic/s1454541.jpg", "name": "\u5b64\u72ec\u53ca\u5176\u6240\u521b\u9020\u7684", "author": "Paul Auster"}
+{"grade": " 8.4 ", "picture": "https://img3.doubanio.com/mpic/s5459664.jpg", "name": "\u57ce\u95e8\u5f00", "author": "\u5317\u5c9b"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s27144164.jpg", "name": "\u5bcc\u7f8e\u5b50\u7684\u811a", "author": "\u8c37\u5d0e\u6da6\u4e00\u90ce"}
+{"grade": " 8.5 ", "picture": "https://img3.doubanio.com/mpic/s4646523.jpg", "name": "\u7075\u9b42\u4e4b\u5fc3", "author": "\u76d6\u745e\u00b7\u7956\u5361\u592b"}
+{"grade": " 9.1 ", "picture": "https://img3.doubanio.com/mpic/s25137546.jpg", "name": "\u7075\u6027\u70bc\u91d1\u672f", "author": "\u5e15\u6885\u62c9\u00b7\u514b\u91cc\u67cf"}
+{"grade": " 9.1 ", "picture": "https://img1.doubanio.com/mpic/s2174828.jpg", "name": "\u6708\u4eae\u548c\u516d\u4fbf\u58eb", "author": "\u6bdb\u59c6"}
+{"grade": " 8.2 ", "picture": "https://img3.doubanio.com/mpic/s27320220.jpg", "name": "\u8d85\u4e2a\u4eba\u5fc3\u7406\u5b66", "author": "\u3014\u7f8e\u56fd\u3015\u5e03\u5170\u7279\u2022\u5bc7\u7279\u83b1\u7279"}
+{"grade": " 9.0 ", "picture": "https://img3.doubanio.com/mpic/s4144386.jpg", "name": "\u516b\u6b63\u9053", "author": "\u5fb7\u5b9d\u6cd5\u5e08"}
+{"grade": " 9.4 ", "picture": "https://img3.doubanio.com/mpic/s3479570.jpg", "name": "\u7576\u4ee3\u5357\u50b3\u4f5b\u6559\u5927\u5e2b", "author": "\u5091\u514b.\u5eb7"}
+{"grade": " 8.2 ", "picture": "https://img3.doubanio.com/mpic/s3543923.jpg", "name": "\u68ee\u6797\u4e2d\u7684\u6cd5\u8bed", "author": "\u963f\u59dc\u67e5"}
+{"grade": " 8.4 ", "picture": "https://img3.doubanio.com/mpic/s4465691.jpg", "name": "\u65bc\u662f\u642c\u77f3\u4f60\u6cbf\u8857\u770b\u7bc0\u65e5\u7684\u71c8\u98fe", "author": "\u98f2\u6c5f"}
+{"grade": " 7.5 ", "picture": "https://img3.doubanio.com/mpic/s3819962.jpg", "name": "\u69c1\u6728\u6b7b\u7070\u96c6", "author": "\u937e\u66c9\u967d"}
+{"grade": " 7.9 ", "picture": "https://img3.doubanio.com/mpic/s3931704.jpg", "name": "\u89e3\u9ad4\u6211\u57ce", "author": "\u9673\u667a\u5fb7"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s1399426.jpg", "name": "\u8d8a\u754c\u66f8\u7c21", "author": "\u4e5f\u65af"}
+{"grade": " 8.6 ", "picture": "https://img3.doubanio.com/mpic/s3768063.jpg", "name": "\u94c1\u9f20\u4e4b\u69db\uff08\u4e0a\uff09", "author": "[\u65e5] \u4eac\u6781\u590f\u5f66"}
+{"grade": " 8.7 ", "picture": "https://img3.doubanio.com/mpic/s1988682.jpg", "name": "\u770b\u725b\u96c6", "author": "\u5433\u7166\u658c"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s1992691.jpg", "name": "\u534a\u9014", "author": "\u6881\u79c9\u921e (\u4e5f\u65af)"}
+{"grade": " 8.4 ", "picture": "https://img1.doubanio.com/mpic/s1471648.jpg", "name": "\u7d10\u7d04\u4e09\u90e8\u66f2", "author": "\u4fdd\u7f85\u2027\u5967\u65af\u7279\uff08Paul Auster\uff09"}
+{"grade": " 8.7 ", "picture": "https://img3.doubanio.com/mpic/s4417111.jpg", "name": "\u57ce\u9580\u958b", "author": "\u5317\u5cf6"}
+{"grade": " 8.7 ", "picture": "https://img3.doubanio.com/mpic/s6221071.jpg", "name": "\u4e2a\u4eba\u89c9\u9192\u7684\u529b\u91cf", "author": "[\u7f8e] \u8428\u5a1c\u5a05\u00b7\u7f57\u66fc"}
+{"grade": " 8.4 ", "picture": "https://img3.doubanio.com/mpic/s4417070.jpg", "name": "\u8428\u5fb7\u4faf\u7235\u592b\u4eba", "author": "(\u65e5) \u4e09\u5c9b\u7531\u7eaa\u592b"}
+{"grade": " 9.3 ", "picture": "https://img1.doubanio.com/mpic/s4463988.jpg", "name": "\u9748\u6027\u7149\u91d1\u8853", "author": "\u6f58\u871c\u62c9\u2027\u514b\u91cc\u67cf"}
+{"grade": " 8.8 ", "picture": "https://img3.doubanio.com/mpic/s6058883.jpg", "name": "\u89c2\u547c\u5438", "author": "\u5fb7\u5b9d\u6cd5\u5e08"}
+{"grade": " 9.3 ", "picture": "https://img3.doubanio.com/mpic/s3984020.jpg", "name": "\u89aa\u8fd1\u91cb\u8fe6\u725f\u5c3c\u4f5b\uff1a\u5f9e\u5df4\u5229\u85cf\u7d93\u770b\u4f5b\u9640\u7684\u4e00\u751f", "author": "\u9afb\u667a\u6bd4\u4e18"}
+{"grade": " 9.4 ", "picture": "https://img3.doubanio.com/mpic/s27093144.jpg", "name": "\u8108\u8f2a\u5168\u66f8", "author": "\u827e\u8afe\u8482\uff0e\u6731\u8fea\u65af Anodea Judith"}
+{"grade": " 9.2 ", "picture": "https://img3.doubanio.com/mpic/s1382026.jpg", "name": "\u963f\u59dc\u67e5\u7684\u79aa\u4fee\u4e16\u754c\uff0d\u6167\uff08\u7b2c\u4e09\u90e8\uff09Food For The Heart : The Collected Teachings of Ajahn Chah ", "author": "\u963f\u59dc\u67e5\uff0c\u8b6f\uff0f\u8cf4\u9686\u5f65"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s2394663.jpg", "name": "\u539f\u8c05\u7684\u7985\u4fee", "author": "\u5091\u514b\u2027\u5eb7\u83f2\u723e\u5fb7(Jack Kornfield)  \u8457"}
+{"grade": " 8.6 ", "picture": "https://img1.doubanio.com/mpic/s28391037.jpg", "name": "\u6708\u4eae\u548c\u516d\u4fbf\u58eb", "author": "\u6bdb\u59c6"}
+{"grade": " 7.1 ", "picture": "https://img3.doubanio.com/mpic/s1399431.jpg", "name": "\u69c1\u6728\u6b7b\u7070\u96c6", "author": "\u937e\u66c9\u967d"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s3804802.jpg", "name": "\u5947\u840a\u5f8c\u66f8", "author": "\u694a\u7267"}
+{"grade": " 8.8 ", "picture": "https://img3.doubanio.com/mpic/s3621906.jpg", "name": "\u81fa\u7063", "author": "\u738b\u5fb7\u5a01"}
+{"grade": " 8.2 ", "picture": "https://img1.doubanio.com/mpic/s1399299.jpg", "name": "V\u57ce\u7e41\u52dd\u9304", "author": "\u8463\u555f\u7ae0"}
+{"grade": " 8.8 ", "picture": "https://img1.doubanio.com/mpic/s2147347.jpg", "name": "\u96f7\u8072\u8207\u87ec\u9cf4", "author": "\u6881\u79c9\u921e"}
+{"grade": " 8.1 ", "picture": "https://img3.doubanio.com/mpic/s1387800.jpg", "name": "\u8863\u9b5a\u7c21\u53f2", "author": "\u8463\u555f\u7ae0"}
+{"grade": " 8.3 ", "picture": "https://img1.doubanio.com/mpic/s3157557.jpg", "name": "The New York Trilogy", "author": "Paul Auster"}
+{"grade": " 8.6 ", "picture": "https://img3.doubanio.com/mpic/s3959151.jpg", "name": "\u9752\u71c8", "author": "\u5317\u5cf6"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s4633542.jpg", "name": "\u30b5\u30c9\u4faf\u7235\u592b\u4eba\u30fb\u308f\u304c\u53cb\u30d2\u30c3\u30c8\u30e9\u30fc", "author": "\u4e09\u5cf6 \u7531\u7d00\u592b"}
+{"grade": " 7.6 ", "picture": "https://img1.doubanio.com/mpic/s6520668.jpg", "name": "\u5e78\u798f\u53f7\u8d77\u822a", "author": "(\u65e5) \u4e09\u5c9b\u7531\u7eaa\u592b"}
+{"grade": " 8.1 ", "picture": "https://img1.doubanio.com/mpic/s1441567.jpg", "name": "\u901a\u9748\u5de5\u4f5c\u574a", "author": "\u91d1\uff0e\u96c0\u7d72\u59ae"}
+{"grade": " 8.0 ", "picture": "https://img3.doubanio.com/mpic/s3405723.jpg", "name": "\u5728\u89ba\u77e5\u4e2d\u5275\u9020\u5341\u5927\u6cd5\u5247", "author": "\u5f17\u745e\u5fb7\uff0e\u601d\u7279\u9748"}
+{"grade": " 8.4 ", "picture": "https://img3.doubanio.com/mpic/s1361875.jpg", "name": "\u9748\u9b42\u5360\u661f", "author": "JAN SPILLER"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s2820033.jpg", "name": "\u6b63\u5ff5\u4e4b\u9053", "author": "\u5411\u667a\u9577\u8001(Nyanaponika Thera)"}
+{"grade": " 9.2 ", "picture": "https://img3.doubanio.com/mpic/s1662302.jpg", "name": "\u89ba\u9192\u7684\u52c7\u6c23\u300a\u963f\u5e95\u5cfd\u4e4b\u4fee\u5fc3\u4e03\u8981\u300b", "author": "\u9802\u679c\u6b3d\u54f2\u6cd5\u738b/\u8457"}
+{"grade": " 8.0 ", "picture": "https://img1.doubanio.com/mpic/s28070229.jpg", "name": "\u6b27\u7f8e\u5f53\u4ee3\u7ecf\u5178\u6587\u5e93\uff08\u7b2c\u4e8c\u8f91\uff09\uff08\u65b0\u72486\u518c\uff09", "author": "[\u7f8e] \u8f9b\u897f\u5a05\u00b7\u6c83\u683c"}
+{"grade": " 9.4 ", "picture": "https://img3.doubanio.com/mpic/s7003845.jpg", "name": "\u7a81\u7834\u4fee\u9053\u4e0a\u7684\u552f\u7269", "author": "\u90b1\u967d\uff0e\u5275\u5df4\u4ec1\u6ce2\u5207"}
+{"grade": " 8.1 ", "picture": "https://img3.doubanio.com/mpic/s2604495.jpg", "name": "\u5947\u840a\u524d\u66f8\uff08\u7cbe\uff09", "author": "\u694a\u7267"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s27454972.jpg", "name": "\u5947\u840a\u5f8c\u66f8", "author": "\u694a\u7267"}
+{"grade": " 8.0 ", "picture": "https://img1.doubanio.com/mpic/s1387377.jpg", "name": "\u96d9\u8eab", "author": "\u8463\u555f\u7ae0"}
+{"grade": " 9.0 ", "picture": "https://img3.doubanio.com/mpic/s1400522.jpg", "name": "\u5341\u4eba\u8a69\u9078", "author": "\u9322\u96c5\u5a77\uff08\u7de8\uff09"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s1992788.jpg", "name": "\u6c34\u5728\u74f6", "author": "\u8449\u8f1d"}
+{"grade": " 8.7 ", "picture": "https://img3.doubanio.com/mpic/s1660350.jpg", "name": "Disgrace", "author": "J.M. Coetzee"}
+{"grade": " 8.5 ", "picture": "https://img1.doubanio.com/mpic/s6970078.jpg", "name": "The Sense of an Ending", "author": "Julian Barnes"}
+{"grade": " 8.6 ", "picture": "https://img3.doubanio.com/mpic/s1668555.jpg", "name": "\u85cd\u623f\u5b50", "author": "\u5317\u5cf6"}
+{"grade": " 8.1 ", "picture": "https://img3.doubanio.com/mpic/s2861852.jpg", "name": "\u53e4\u4ee3\u795e\u7955\u5b78\u9662\u5165\u9580\u66f8\uff1a\u8d85\u611f\u61c9\u80fd\u529b\u8207\u8108\u8f2a\u958b\u901a\u8a13\u7df4", "author": "\u9053\u683c\u62c9\u65af\uff0e\u5fb7\u9f8d"}
+{"grade": " 7.7 ", "picture": "https://img3.doubanio.com/mpic/s28345845.jpg", "name": "\u9752\u706f", "author": "\u5317\u5c9b"}
+{"grade": " 8.3 ", "picture": "https://img3.doubanio.com/mpic/s2867304.jpg", "name": "\u9752\u71c8", "author": "\u5317\u5cf6"}
+{"grade": " 7.7 ", "picture": "https://img1.doubanio.com/mpic/s26841137.jpg", "name": "\u6545\u5bae\u7684\u98a8\u82b1\u96ea\u6708", "author": "\u795d\u52c7"}
+{"grade": " 8.5 ", "picture": "https://img3.doubanio.com/mpic/s1431901.jpg", "name": "\u751f\u547d\u6b77\u7a0b\u5168\u5360\u661f", "author": "\u97d3\u826f\u9732"}
+{"grade": " 8.0 ", "picture": "https://img3.doubanio.com/mpic/s1450125.jpg", "name": "\u9748\u9b42\u7684\u7b26\u865f", "author": "Gina Lake"}
+{"grade": " 9.4 ", "picture": "https://img1.doubanio.com/mpic/s1662309.jpg", "name": "\u4fee\u884c\u767e\u980c\u300a\u5728\u4fd7\u4e16\u4fee\u884c\u7684\u4e00\u25cb\u4e00\u500b\u5fe0\u544a\u300b", "author": "Dilgo Khyentse Rinpoche"}
+{"grade": " 8.5 ", "picture": "https://img3.doubanio.com/mpic/s28109824.jpg", "name": "\u7231\u5c14\u5170\u4e4b\u65c5", "author": "(\u5fb7) \u4f2f\u5c14"}
+{"grade": " 8.1 ", "picture": "https://img1.doubanio.com/mpic/s28110518.jpg", "name": "1cm\u7684\u7f8e\u597d", "author": "\u3010\u97e9\u3011\u91d1\u94f6\u73e0"}
+{"grade": " 8.2 ", "picture": "https://img3.doubanio.com/mpic/s4077003.jpg", "name": "\u5fc3\u5982\u91ce\u9a6c\uff1a\u8f6c\u5316\u70e6\u607c\u7684\u4fee\u5fc3\u4e03\u8981", "author": "\u4e18\u63da\u5275\u5df4 Chogyam Trungpa Rinpoche"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s27454968.jpg", "name": "\u5947\u83b1\u524d\u66f8", "author": "\u694a\u7267"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s28329969.jpg", "name": "Memories of Mount Qilai", "author": "Mu Yang"}
+{"grade": " 7.9 ", "picture": "https://img3.doubanio.com/mpic/s4401584.jpg", "name": "\u96d9\u8eab\uff08\u4f5c\u54c1\u96c6\u73cd\u85cf\u7d93\u5178\u7248\uff09", "author": "\u8463\u555f\u7ae0"}
+{"grade": " 7.6 ", "picture": "https://img3.doubanio.com/mpic/s3892864.jpg", "name": "\u81e5\u5e95\u4e3b\u7fa9", "author": "\u8449\u8f1d"}
+{"grade": " 8.4 ", "picture": "https://img3.doubanio.com/mpic/s4530806.jpg", "name": "\u803b", "author": "J.M.\u5e93\u5207"}
+{"grade": " 7.9 ", "picture": "https://img3.doubanio.com/mpic/s24468532.jpg", "name": "The Sense of an Ending", "author": "Julian Barnes"}
+{"grade": " 8.7 ", "picture": "https://img1.doubanio.com/mpic/s1663858.jpg", "name": "\u5348\u591c\u4e4b\u9580", "author": "\u5317\u5cf6"}
+{"grade": " 8.5 ", "picture": "https://img3.doubanio.com/mpic/s11317603.jpg", "name": "\u56de\u61b6\u7684\u9918\u71fc", "author": "\u6731\u5229\u5b89\u2022\u62d4\u6069\u65af"}
+{"grade": " 7.7 ", "picture": "https://img1.doubanio.com/mpic/s26850758.jpg", "name": "\u820a\u65e5\u98a8\u96f2", "author": "\u8a31\u79ae\u5e73"}
+{"grade": " 8.4 ", "picture": "https://img3.doubanio.com/mpic/s1360875.jpg", "name": "\u611b\u60c5\u5168\u5360\u661f", "author": "\u97d3\u826f\u9732"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s3592995.jpg", "name": "\u7231\u5c14\u5170\u65e5\u8bb0", "author": "(\u5fb7)\u6d77\u56e0\u91cc\u5e0c\u00b7\u4f2f\u5c14"}
+{"grade": " 7.3 ", "picture": "https://img3.doubanio.com/mpic/s3968756.jpg", "name": "\u4eba\u969b\u5408\u76e4\u5360\u661f\u5168\u66f8", "author": "\u9b6f\u9053\u592b"}
+{"grade": " 8.5 ", "picture": "https://img3.doubanio.com/mpic/s3771210.jpg", "name": "\u848b\u626c\u94a6\u54f2\u65fa\u6ce2\u4f20", "author": "\u8d21\u73e0\u00b7\u4e91\u4e39\u5609\u63aa"}
+{"grade": " 6.8 ", "picture": "https://img3.doubanio.com/mpic/s28094116.jpg", "name": "\u4ffe\u65af\u9ea6\u4e0e\u5fb7\u610f\u5fd7\u5e1d\u56fd", "author": "\u3010\u82f1\u3011\u57c3\u91cc\u514b\u00b7\u57c3\u514b"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s3527424.jpg", "name": "\u5188\u6ce2\u5df4\u5927\u5e08\u5168\u96c6", "author": "\u4f5c\u8005\uff1a \u5188\u6ce2\u5df4\u5927\u5e08\u3000\u8bed\u5f55"}
+{"grade": " 9.0 ", "picture": "https://img1.doubanio.com/mpic/s28286808.jpg", "name": "\u4e9a\u9a6c\u900a\u68ee\u6797\u7684\u6545\u4e8b", "author": "[\u6cd5]\u7ea6\u7ff0\u59ae\u00b7\u8d1d\u7eb3\u5fb7 \u6587"}
+{"grade": " 8.8 ", "picture": "https://img3.doubanio.com/mpic/s7078100.jpg", "name": "The Sense of an Ending", "author": "Julian Barnes"}
+{"grade": " 9.1 ", "picture": "https://img3.doubanio.com/mpic/s3245485.jpg", "name": "\u5927\u6210\u5c31\u8005\u4e4b\u6b4c\uff08\u4e0a\uff1a\u6cd5\u6e90\u7bc7\uff09", "author": "\u827e\u745e\u514b\uff0e\u8c9d\u746a\uff0e\u6606\u6851/ \u99ac\u897f\u4e9e\uff0e\u8cd3\u5fb7\uff0e\u8212\u5bc6\u7279 Kunsang, Erik Pema/ Schmidt, Marcia Binder"}
+{"grade": " 8.5 ", "picture": "https://img3.doubanio.com/mpic/s10324183.jpg", "name": "\u7ec8\u7ed3\u7684\u611f\u89c9", "author": "[\u82f1] \u6731\u5229\u5b89\u00b7\u5df4\u6069\u65af"}
+{"grade": " 8.0 ", "picture": "https://img3.doubanio.com/mpic/s4023951.jpg", "name": "\u602a\u7269\u63cf\u5beb", "author": "\u9673\u5b50\u8b19"}
+{"grade": " 8.3 ", "picture": "https://img1.doubanio.com/mpic/s4212549.jpg", "name": "\u4f53\u80b2\u65f6\u671f", "author": "\u8463\u542f\u7ae0"}
+{"grade": " 8.8 ", "picture": "https://img1.doubanio.com/mpic/s6132849.jpg", "name": "\u7b49\u5f85\u91ce\u86ee\u4eba", "author": "(\u5357\u975e)J.M.\u5e93\u5207"}
+{"grade": " 7.6 ", "picture": "https://img3.doubanio.com/mpic/s3846246.jpg", "name": "\u7a7f\u9ad8\u8ddf\u978b\u7684\u5927\u8c61", "author": "\u96e8\u5e0c"}
+{"grade": " 7.5 ", "picture": "https://img3.doubanio.com/mpic/s27051620.jpg", "name": "\u5973\u6027\u65f6\u4ee3", "author": "[\u4fc4] \u53f6\u83b2\u5a1c\u00b7\u5947\u82e5\u5a03"}
+{"grade": " 8.8 ", "picture": "https://img1.doubanio.com/mpic/s7005557.jpg", "name": "\u5929\u6a4b\u4e0a\u7684\u9b54\u8853\u5e2b", "author": "\u5433\u660e\u76ca"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s27315854.jpg", "name": "\u820a\u65e5\u98a8\u96f2 \u4e8c\u96c6", "author": "\u8a31\u79ae\u5e73"}
+{"grade": " 7.3 ", "picture": "https://img3.doubanio.com/mpic/s28019985.jpg", "name": "\u65e7\u65e5\u98ce\u4e91", "author": "\u8bb8\u793c\u5e73"}
+{"grade": " 8.2 ", "picture": "https://img3.doubanio.com/mpic/s6879900.jpg", "name": "\u66fe\u51e0\u4f55\u65f6", "author": "\u5e03\u6258"}
+{"grade": " 8.5 ", "picture": "https://img3.doubanio.com/mpic/s27314960.jpg", "name": "\u8b80\u66f8\u4eba\u5bb6", "author": "\u8463\u6a4b"}
+{"grade": " 8.9 ", "picture": "https://img3.doubanio.com/mpic/s4198633.jpg", "name": "\u7576\u4ee3\u5360\u661f\u7814\u7a76", "author": "\u8607\uff0e\u6e6f\u666e\u91d1 Tompkins, Sue"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s3395637.jpg", "name": "\u897f\u85cf\u4e0d\u5206\u6559\u6d3e\u8fd0\u52a8\u5927\u5e08\u2500\u848b\u626c\u94a6\u54f2\u65fa\u6ce2\u4f20", "author": "\u7b2c\u4e00\u4e16\u8523\u8ca2\u5eb7\u695a\u4ec1\u6ce2\u5207"}
+{"grade": " 9.0 ", "picture": "https://img3.doubanio.com/mpic/s2370624.jpg", "name": "\u9a6c\u4eba", "author": "\u5384\u666e\u4ee3\u514b"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s28001646.jpg", "name": "\u5927\u5713\u6eff\u4e4b\u6b4c\uff1a\u7e3d\u96c6\u6b77\u4ee3\u91cd\u8981\u5927\u5713\u6eff\u6210\u5c31\u8005\u4e4b\u8b49\u609f\u5fc3\u8981", "author": "\u7956\u53e4\uff0e\u70cf\u91d1\u4ec1\u6ce2\u5207\u7b49"}
+{"grade": " 9.3 ", "picture": "https://img1.doubanio.com/mpic/s3245489.jpg", "name": "\u5927\u6210\u5c31\u8005\u4e4b\u6b4c\uff08\u4e0b\uff1a\u4f20\u627f\u7bc7\uff09", "author": "\u827e\u745e\u514b\uff0e\u8c9d\u746a\uff0e\u6606\u6851/ \u99ac\u897f\u4e9e\uff0e\u8cd3\u5fb7\uff0e\u8212\u5bc6\u7279 Kunsang, Erik Pema/ Schmidt, Marcia Binder"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s4244764.jpg", "name": "\u5927\u5706\u6ee1\u751f\u6d3b", "author": "\u63aa\u5c3c\u4ec1\u6ce2\u5207"}
+{"grade": " 8.3 ", "picture": "https://img3.doubanio.com/mpic/s7008273.jpg", "name": "\u957f\u65e5\u7559\u75d5", "author": "[\u82f1] \u77f3\u9ed1\u4e00\u96c4"}
+{"grade": " 9.5 ", "picture": "https://img3.doubanio.com/mpic/s1820825.jpg", "name": "\u5433\u7166\u658c\u5c0f\u8aaa\u96c6", "author": "\u5433\u7166\u658c"}
+{"grade": " 8.5 ", "picture": "https://img3.doubanio.com/mpic/s1373723.jpg", "name": "\u8207\u5e7d\u9748\u540c\u8655\u7684\u5c45\u6240", "author": "\u5289\u82b7\u97fb"}
+{"grade": " 8.5 ", "picture": "https://img3.doubanio.com/mpic/s1391114.jpg", "name": "\u9ad4\u80b2\u6642\u671f\uff08\u4e0b\uff09", "author": "\u8463\u555f\u7ae0"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s24523369.jpg", "name": "\u533a\u57df\uff1a\u4e9a\u6d32\u7814\u7a76\u8bba\u4e1b\uff08\u7b2c\u4e8c\u8f91\uff09", "author": "\u6c6a\u6656"}
+{"grade": " 8.3 ", "picture": "https://img3.doubanio.com/mpic/s4115216.jpg", "name": "\u5929\u5de5\u5f00\u7269\u00b7\u6829\u6829\u5982\u771f", "author": "\u8463\u542f\u7ae0"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s28296284.jpg", "name": "\u6625\u7533\u65e7\u95fb\u7eed", "author": "\u9648\u5b9a\u5c71"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s4503343.jpg", "name": "\u66fe\u51e0\u4f55\u65f6", "author": "[\u6cd5] \u7c73\u6b47\u5c14\u00b7\u5e03\u6258"}
+{"grade": " 6.3 ", "picture": "https://img3.doubanio.com/mpic/s8932475.jpg", "name": "\u7f8e\u4e3d\u7684\u6076\u610f", "author": "\u4e3d\u8d1d\u5361\u00b7\u8a79\u59c6\u65af"}
+{"grade": " 8.6 ", "picture": "https://img3.doubanio.com/mpic/s27157124.jpg", "name": "\u591c\u671b", "author": "\u8463\u6a4b"}
+{"grade": " 7.7 ", "picture": "https://img1.doubanio.com/mpic/s7661228.jpg", "name": "\u94c5\u7b14\u5934", "author": "\u8d75\u7a57\u5eb7"}
+{"grade": " 9.6 ", "picture": "https://img3.doubanio.com/mpic/s4623390.jpg", "name": "\u84ee\u5e2b\u5fc3\u8981\u5efa\u8a00", "author": "\u84ee\u82b1\u751f\u5927\u5e2b"}
+{"grade": " 7.6 ", "picture": "https://img3.doubanio.com/mpic/s27804665.jpg", "name": "\u53ef\u7231\u7684\u6587\u5316\u4eba", "author": "\u4fde\u6653\u7fa4"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s3216210.jpg", "name": "\u5982\u6b64\u4eba\u751f", "author": "[\u82f1]\u585e\u7f2a\u5c14\u00b7\u52c3\u7279\u52d2"}
+{"grade": " 8.8 ", "picture": "https://img3.doubanio.com/mpic/s24966362.jpg", "name": "\u7eff\u5ea6\u6bcd\u5b9d\u85cf", "author": "\u79cb\u5409\u00b7\u6797\u5df4\u4ec1\u6ce2\u5207//\u7956\u53e4\u00b7\u4e4c\u91d1\u4ec1\u6ce2\u5207//\u695a\u559c\u00b7\u963f\u5e1d\u4ec1\u6ce2\u5207|\u8bd1\u8005"}
+{"grade": " 8.5 ", "picture": "https://img1.doubanio.com/mpic/s28232898.jpg", "name": "\u5b57\u91cc\u76f8\u9022", "author": "\u8463\u6865"}
+{"grade": " 7.6 ", "picture": "https://img1.doubanio.com/mpic/s4390157.jpg", "name": "\u5922\u745c\u4f3d\u8207\u81ea\u7136\u5149\u7684\u4fee\u7fd2", "author": "\u5357\u958b\u8afe\u5e03\u4ec1\u6ce2\u5207"}
+{"grade": " 8.0 ", "picture": "https://img3.doubanio.com/mpic/s1398534.jpg", "name": "\u8f38\u6c34\u7ba1\u68ee\u6797", "author": "\u97d3\u9e97\u73e0"}
+{"grade": " 8.1 ", "picture": "https://img3.doubanio.com/mpic/s7008415.jpg", "name": "\u522b\u8ba9\u6211\u8d70", "author": "(\u82f1)\u77f3\u9ed1\u4e00\u96c4"}
+{"grade": " 8.0 ", "picture": "https://img3.doubanio.com/mpic/s1992760.jpg", "name": "\u5fc3\u7684\u5168\u90e8", "author": "\u5289\u82b7\u97fb"}
+{"grade": " 7.8 ", "picture": "https://img3.doubanio.com/mpic/s3155304.jpg", "name": "\u7537\u4eba\u8207\u72d7", "author": "\u8449\u611b\u84ee"}
+{"grade": " 7.9 ", "picture": "https://img3.doubanio.com/mpic/s1398532.jpg", "name": "\u5973\u5deb\u4e4b\u6b4c", "author": "\u675c\u5bb6\u7941"}
+{"grade": " 9.1 ", "picture": "https://img3.doubanio.com/mpic/s2139435.jpg", "name": "\u611b\u84ee\u8aaa", "author": "\u937e\u73b2\u73b2"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s6789963.jpg", "name": "\u533a\u57df", "author": "\u6c6a\u6656"}
+{"grade": " 8.1 ", "picture": "https://img3.doubanio.com/mpic/s1395285.jpg", "name": "\u91ce\u5b69\u5b50", "author": "\u5f35\u5927\u6625"}
+{"grade": " 8.4 ", "picture": "https://img1.doubanio.com/mpic/s1955537.jpg", "name": "\u7121\u98a8\u5e36", "author": "\u5442\u6c38\u4f73"}
+{"grade": " 8.0 ", "picture": "https://img3.doubanio.com/mpic/s8873895.jpg", "name": "\u7acb\u6625\u524d\u5f8c", "author": "\u8463\u6a4b"}
+{"grade": " 8.0 ", "picture": "https://img3.doubanio.com/mpic/s3970753.jpg", "name": "\u5c11\u96e8\u7684\u571f\u5730\u6f2b\u6b65", "author": "\uff08\u7f8e\uff09\u68ad\u7f57"}
+{"grade": " 8.1 ", "picture": "https://img3.doubanio.com/mpic/s27241205.jpg", "name": "\u4e54\u4f0a\u65af\uff08\u4f01\u9e45\u4eba\u751f\uff09", "author": "\u3014\u7231\u5c14\u5170\u3015 \u57c3\u5fb7\u5a1c\u00b7\u5965\u5e03\u8d56\u6069"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s2750118.jpg", "name": "\u970d\u666e\u7279\u66fc\u5c0f\u8bf4\u9009", "author": "(\u5fb7)\u76d6\u5c14\u54c8\u7279\u00b7\u970d\u666e\u7279\u66fc"}
+{"grade": " 8.3 ", "picture": "https://img1.doubanio.com/mpic/s10423799.jpg", "name": "\u8463\u6a4b\u4e03\u5341", "author": "\u8463\u6a4b"}
+{"grade": " 7.3 ", "picture": "https://img3.doubanio.com/mpic/s8976163.jpg", "name": "\u84ec\u84bf\u4eba\u4e66\u8bed", "author": "\u4fde\u6653\u7fa4"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s28290874.jpg", "name": "\u5b57\u88cf\u76f8\u9022", "author": "\u8463\u6a4b"}
+{"grade": " 8.0 ", "picture": "https://img3.doubanio.com/mpic/s1442414.jpg", "name": "\u5be7\u975c\u7684\u7378.", "author": "\u97d3\u9e97\u73e0"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s28226778.jpg", "name": "\u5b57\u88cf\u76f8\u9022", "author": "\u8463\u6a4b"}
+{"grade": " 8.6 ", "picture": "https://img1.doubanio.com/mpic/s2718388.jpg", "name": "Never Let Me Go", "author": "Kazuo Ishiguro"}
+{"grade": " 7.9 ", "picture": "https://img3.doubanio.com/mpic/s3388553.jpg", "name": "\u5931\u8e64\u7684\u8c61", "author": "\u9673\u5fd7\u83ef"}
+{"grade": " 9.1 ", "picture": "https://img1.doubanio.com/mpic/s3559478.jpg", "name": "\u9ed8\u793a\u9304", "author": "\u667a\u6d77"}
+{"grade": " 8.6 ", "picture": "https://img1.doubanio.com/mpic/s4534368.jpg", "name": "Never Let Me Go", "author": "Kazuo Ishiguro"}
+{"grade": " 7.5 ", "picture": "https://img3.doubanio.com/mpic/s2385326.jpg", "name": "\u611b\u4eba", "author": "\u937e\u73b2\u73b2"}
+{"grade": " 8.9 ", "picture": "https://img3.doubanio.com/mpic/s27289841.jpg", "name": "\u7532\u7533\u5e74\u7d00\u4e8b", "author": "\u8463\u6a4b"}
+{"grade": " 7.2 ", "picture": "https://img3.doubanio.com/mpic/s1992761.jpg", "name": "\u4e0d\u53ef\u80fd\u7684\u5bb6", "author": "\u6e38\u975c"}
+{"grade": " 7.9 ", "picture": "https://img1.doubanio.com/mpic/s3852847.jpg", "name": "\u5348\u5f8c\u516c\u5712", "author": "\u5442\u6c38\u4f73"}
+{"grade": " 8.3 ", "picture": "https://img3.doubanio.com/mpic/s6062162.jpg", "name": "\u4f18\u5c71\u7f8e\u5730", "author": "[\u7f8e] \u7ea6\u7ff0\u00b7\u7f2a\u5c14"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s3553750.jpg", "name": "\u661f\u671f\u516d\u665a\u4e0a\u548c\u661f\u671f\u65e5\u65e9\u6668", "author": "\u3010\u82f1\u3011\u827e\u4f26\u00b7\u897f\u5229\u6258"}
+{"grade": " 8.6 ", "picture": "https://img3.doubanio.com/mpic/s2800660.jpg", "name": "\u820a\u60c5\u89e3\u69cb", "author": "\u8463\u6a4b"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s27595404.jpg", "name": "\u732b\u738b\uff08\u4f01\u9e45\u4eba\u751f\uff09", "author": "\u9c8d\u6bd4\u00b7\u5b89\u00b7\u6885\u68ee"}
+{"grade": " 7.5 ", "picture": "https://img3.doubanio.com/mpic/s1399311.jpg", "name": "\u9580\u7a97\u98a8\u96e8", "author": "\u937e\u570b\u5f37"}
+{"grade": " 7.9 ", "picture": "https://img1.doubanio.com/mpic/s25933118.jpg", "name": "\u51b0\u5fc3\u5728\u7389\u58f6", "author": "\u5218\u7ecd\u94ed"}
+{"grade": " 7.9 ", "picture": "https://img1.doubanio.com/mpic/s11336478.jpg", "name": "\u9ca4\u73e0\u5c0f\u62fe", "author": "\u96cd\u5bb9"}
+{"grade": " 7.4 ", "picture": "https://img3.doubanio.com/mpic/s27229214.jpg", "name": "\u4e66\u4e2d\u65e5\u6708\u957f", "author": "\u80e1\u6d2a\u4fa0"}
+{"grade": " 8.2 ", "picture": "https://img3.doubanio.com/mpic/s11095504.jpg", "name": "\u82f1\u534e\u6c89\u6d6e\u5f55 4", "author": "\u8463\u6865"}
+{"grade": " 8.9 ", "picture": "https://img3.doubanio.com/mpic/s28394220.jpg", "name": "\u9634\u7ff3\u793c\u8d5e", "author": "[\u65e5] \u8c37\u5d0e\u6da6\u4e00\u90ce"}
+{"grade": " 9.2 ", "picture": "https://img1.doubanio.com/mpic/s22997288.jpg", "name": "\u6642\u5149\u7684\u76ba\u7d0b", "author": "\u963f\u591a\u5c3c\u65af"}
+{"grade": " 8.7 ", "picture": "https://img3.doubanio.com/mpic/s1462821.jpg", "name": "The Catcher in the Rye", "author": "J. D. Salinger"}
+{"grade": " 9.1 ", "picture": "https://img1.doubanio.com/mpic/s1891838.jpg", "name": "\u9326\u7e61\u85cd\u7530", "author": "\u694a\u5b78\u5fb7"}
+{"grade": " 8.8 ", "picture": "https://img3.doubanio.com/mpic/s1389650.jpg", "name": "\u502b\u6566\u7684\u590f\u5929\u7b49\u4f60\u4f86", "author": "\u8463\u6a4b"}
+{"grade": " 8.6 ", "picture": "https://img3.doubanio.com/mpic/s27330194.jpg", "name": "\u751f\u800c\u70ba\u4eba", "author": "\u937e\u73b2\u73b2"}
+{"grade": " 7.8 ", "picture": "https://img1.doubanio.com/mpic/s1992758.jpg", "name": "\u53e6\u8d77\u7210\u7076", "author": "\u6e38\u975c"}
+{"grade": " 8.6 ", "picture": "https://img3.doubanio.com/mpic/s3455146.jpg", "name": "\u5178\u578b\u7684\u65e5\u5b50", "author": "\uff08\u7f8e\uff09\u60e0\u7279\u66fc\uff08Mhitman\uff0cW.\uff09"}
+{"grade": " 8.3 ", "picture": "https://img3.doubanio.com/mpic/s26930803.jpg", "name": "\u7b80\u5355\u7684\u601d\u60f3", "author": "(\u6cd5)\u9a6c\u745f G\u00e9rard Mac\u00e9"}
+{"grade": " 8.5 ", "picture": "https://img1.doubanio.com/mpic/s2600468.jpg", "name": "\u4eca\u671d\u98a8\u65e5\u597d", "author": "\u8463\u6a4b"}
+{"grade": " 8.4 ", "picture": "https://img3.doubanio.com/mpic/s6797755.jpg", "name": "\u590f\u5b63\u8d70\u8fc7\u5c71\u95f4", "author": "\u7ea6\u7ff0\u00b7\u7f2a\u5c14"}
+{"grade": " 9.4 ", "picture": "https://img3.doubanio.com/mpic/s1785415.jpg", "name": "\u54c1\u5473\u6b77\u7a0b\u2500\u2500\u8463\u6a4b\u81ea\u9078\u96c6", "author": "\u8463\u6a4b"}
+{"grade": " 7.0 ", "picture": "https://img3.doubanio.com/mpic/s26809986.jpg", "name": "\u9e31\u5937\u5ba4\u6587\u949e", "author": "\u8303\u70df\u6865 \u8457"}
+{"grade": " 9.1 ", "picture": "https://img3.doubanio.com/mpic/s1992700.jpg", "name": "\u5fc5\u8981\u7684\u89d2\u5ea6", "author": "\u9ec3\u71e6\u7136"}
+{"grade": " 7.6 ", "picture": "https://img3.doubanio.com/mpic/s24609166.jpg", "name": "\u4e66\u524d\u4e66\u540e", "author": "\u949f\u53d4\u6cb3"}
+{"grade": " 7.8 ", "picture": "https://img3.doubanio.com/mpic/s28041205.jpg", "name": "\u5916\u9762\u7684\u98ce\u5f88\u51b7", "author": "\u5411\u660e"}
+{"grade": " ", "picture": "https://img3.doubanio.com/f/shire/5522dd1f5b742d1e1394a17f44d590646b63871d/pics/book-default-medium.gif", "name": "\u82f1\u83ef\u6c89\u6d6e\u9304\uff08\u56db\uff09", "author": "\u8463\u6a4b"}
+{"grade": " 9.3 ", "picture": "https://img1.doubanio.com/mpic/s26024459.jpg", "name": "\u65e9\u6668\u8207\u5165\u53e3", "author": "\u6258\u99ac\u65af\uff0e\u7279\u6717\u65af\u7279\u7f85\u9ed8"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s27992527.jpg", "name": "\u82f1\u534e\u6c89\u6d6e\u5f55\u2463", "author": "\u8463\u6865"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s27236489.jpg", "name": "\u6211\u5f9e\u672a\u61c9\u8a31\u4f60\u4e00\u500b\u73ab\u7470\u5712", "author": "\u6e38\u975c"}
+{"grade": " 8.4 ", "picture": "https://img3.doubanio.com/mpic/s3894865.jpg", "name": "\u5f8c\u907a", "author": "\u76e7\u52c1\u99b3"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s28347327.jpg", "name": "\u6768\u67f3\u98ce", "author": "[\u82f1] \u80af\u5c3c\u65af\u00b7\u683c\u96f7\u5384\u59c6"}
+{"grade": " 7.4 ", "picture": "https://img1.doubanio.com/mpic/s2395529.jpg", "name": "\u6211\u4e0d\u71e6\u721b", "author": "\u937e\u73b2\u73b2"}
+{"grade": " 8.5 ", "picture": "https://img1.doubanio.com/mpic/s4736047.jpg", "name": "\u9634\u7ff3\u793c\u8d5e", "author": "[\u65e5]\u8c37\u5d0e\u6da6\u4e00\u90ce"}
+{"grade": " 8.6 ", "picture": "https://img1.doubanio.com/mpic/s28394218.jpg", "name": "\u9634\u7ff3\u793c\u8d5e", "author": "(\u65e5) \u8c37\u5d0e\u6da6\u4e00\u90ce"}
+{"grade": " 8.4 ", "picture": "https://img3.doubanio.com/mpic/s3249520.jpg", "name": "\u624b\u827a\u7684\u9ec4\u660f\uff1a\u8f66\u524d\u5b50\u81ea\u9009\u96c6", "author": "\u8f66\u524d\u5b50"}
+{"grade": " 8.4 ", "picture": "https://img3.doubanio.com/mpic/s3687546.jpg", "name": "\u7d55\u8272", "author": "\u8463\u6a4b"}
+{"grade": " 8.5 ", "picture": "https://img3.doubanio.com/mpic/s1990124.jpg", "name": "\u91cd\u6e38\u7f05\u6e56", "author": "[\u7f8e] E. B. \u6000\u7279"}
+{"grade": " 7.9 ", "picture": "https://img3.doubanio.com/mpic/s24944845.jpg", "name": "\u4e66\u7826\u6881\u5c71\u6cca", "author": "\u865e\u4e91\u56fd"}
+{"grade": " 8.9 ", "picture": "https://img1.doubanio.com/mpic/s1400958.jpg", "name": "\u5929\u6c23\u662f\u6587\u5b57\u7684\u984f\u8272", "author": "\u8463\u6a4b"}
+{"grade": " 8.6 ", "picture": "https://img3.doubanio.com/mpic/s1085905.jpg", "name": "\u54c1\u5473\u5386\u7a0b", "author": "\u8463\u6865"}
+{"grade": " 7.6 ", "picture": "https://img3.doubanio.com/mpic/s27771460.jpg", "name": "\u5de6\u53f3\u5de6", "author": "\u949f\u53d4\u6cb3"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s28351943.jpg", "name": "\u5c0f\u5bcc\u5219\u96c6\u800c\u85cf", "author": "\u90d1\u9038\u6885"}
+{"grade": " 8.2 ", "picture": "https://img3.doubanio.com/mpic/s10233612.jpg", "name": "\u82f1\u83ef\u6c89\u6d6e\u9304\uff08\u4e09\uff09", "author": "\u8463\u6a4b"}
+{"grade": " 7.8 ", "picture": "https://img3.doubanio.com/mpic/s27988500.jpg", "name": "\u82f1\u83ef\u6c89\u6d6e\u9304\uff08\u4e8c\uff09", "author": "\u8463\u6a4b"}
+{"grade": " 8.6 ", "picture": "https://img3.doubanio.com/mpic/s27320643.jpg", "name": "\u9605\u8bfbABC", "author": "\uff08\u7f8e\uff09\u57c3\u5179\u62c9\u00b7\u5e9e\u5fb7"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s9067323.jpg", "name": "\u60b2\u50b7\u7684\u9cf3\u5c3e\u8239", "author": "\u6258\u99ac\u65af\uff0e\u7279\u6717\u65af\u7279\u7f85\u9ed8"}
+{"grade": " 8.0 ", "picture": "https://img3.doubanio.com/mpic/s6988382.jpg", "name": "\u5de8\u5927\u7684\u8b0e\u8a9e", "author": "\u6258\u99ac\u65af\u2027\u7279\u6717\u65af\u7279\u7f85\u9ed8"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s10246133.jpg", "name": "\u6d3b\u5728\u5e73\u5e38", "author": "\u6881\u5bf6\u5c71"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s28341629.jpg", "name": "\u5f7c\u5f97\u00b7\u6f58", "author": "\u3014\u82f1\u3015 \u8a79\u59c6\u65af\u00b7\u5df4\u91cc \u8457"}
+{"grade": " 8.7 ", "picture": "https://img1.doubanio.com/mpic/s1326127.jpg", "name": "\u70c8\u5973\u5716", "author": "\u9ec3\u78a7\u96f2"}
+{"grade": " 7.8 ", "picture": "https://img1.doubanio.com/mpic/s8969808.jpg", "name": "\u6c5f\u5357\u8bdd\u672c", "author": "\u8f66\u524d\u5b50"}
+{"grade": " 7.6 ", "picture": "https://img1.doubanio.com/mpic/s28425907.jpg", "name": "\u706f\u4e4b\u6e56\u7554", "author": "\u9752\u5c71\u4e03\u60e0"}
+{"grade": " 7.8 ", "picture": "https://img1.doubanio.com/mpic/s7060957.jpg", "name": "\u7edd\u8272", "author": "\u8463\u6865"}
+{"grade": " 8.8 ", "picture": "https://img3.doubanio.com/mpic/s6911792.jpg", "name": "\u91cd\u6e38\u7f05\u6e56", "author": "E.B.\u6000\u7279"}
+{"grade": " 8.6 ", "picture": "https://img3.doubanio.com/mpic/s1070130.jpg", "name": "\u5439\u5c0f\u53f7\u7684\u5929\u9e45", "author": "[\u7f8e] E\u00b7B \u00b7\u6000\u7279"}
+{"grade": " 8.5 ", "picture": "https://img3.doubanio.com/mpic/s4046242.jpg", "name": "\u91cd\u6e38\u7f05\u6e56", "author": "[\u7f8e]E\u00b7B\u00b7\u6000\u7279"}
+{"grade": " 7.8 ", "picture": "https://img1.doubanio.com/mpic/s11228898.jpg", "name": "\u8015\u5802\u8bfb\u4e66\u8bb0\uff08\u51682\u518c\uff09", "author": "\u5b59\u7281"}
+{"grade": " 8.3 ", "picture": "https://img3.doubanio.com/mpic/s1019432.jpg", "name": "\u6587\u5b57\u662f\u8089\u505a\u7684", "author": "\u8463\u6865"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s28380407.jpg", "name": "\u5148\u5929\u4e0b\u4e4b\u5403\u800c\u5403", "author": "\u90d1\u9038\u6885"}
+{"grade": " 7.5 ", "picture": "https://img1.doubanio.com/mpic/s28059109.jpg", "name": "\u4e70\u4e66\u8bb0\u5386", "author": "\u9648\u6653\u7ef4 \u7f16"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s27992526.jpg", "name": "\u82f1\u534e\u6c89\u6d6e\u5f55\u2462", "author": "\u8463\u6865"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s27992525.jpg", "name": "\u82f1\u534e\u6c89\u6d6e\u5f55\u2461", "author": "\u8463\u6865"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s4533907.jpg", "name": "ABC of Reading", "author": "Ezra Pound"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s6811062.jpg", "name": "\u9577\u591c\u5c07\u76e1", "author": "\u4f69\u723e\uff0e\u6d3e\u7279\u68ee"}
+{"grade": " 7.6 ", "picture": "https://img3.doubanio.com/mpic/s24149852.jpg", "name": "\u6700\u540e\u7684\u6536\u83b7", "author": "Emily Dickinson"}
+{"grade": " 8.7 ", "picture": "https://img3.doubanio.com/mpic/s1398714.jpg", "name": "\u6e29\u67d4\u4e0e\u66b4\u70c8", "author": "\u9ec4\u78a7\u4e91"}
+{"grade": " 8.0 ", "picture": "https://img3.doubanio.com/mpic/s4679266.jpg", "name": "\u865b\u9f52\u8a18", "author": "\u66f9\u758f\u5f71"}
+{"grade": " 8.8 ", "picture": "https://img1.doubanio.com/mpic/s1032427.jpg", "name": "\u5f7c\u5f97\u00b7\u6f58", "author": "[\u82f1] \u5df4\u91cc"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s7058360.jpg", "name": "\u3042\u304b\u308a\u306e\u6e56\u7554", "author": "\u9752\u5c71 \u4e03\u6075"}
+{"grade": " 7.5 ", "picture": "https://img3.doubanio.com/mpic/s11231773.jpg", "name": "\u6fb9\u5b9a\u96c6", "author": "\u5b59\u7281"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s28708879.jpg", "name": "\u53e4\u4e50\u4e4b\u7f8e", "author": "\u82cf\u6cd3\u6708"}
+{"grade": " 8.4 ", "picture": "https://img1.doubanio.com/mpic/s1183399.jpg", "name": "\u65b0\u95fb\u662f\u5386\u53f2\u7684\u521d\u7a3f", "author": "\u8463\u6865"}
+{"grade": " 8.2 ", "picture": "https://img3.doubanio.com/mpic/s1246693.jpg", "name": "\u7cbe\u7075\u9f20\u5c0f\u5f1f", "author": "E\uff0eB\u00b7\u6000\u7279"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s28289892.jpg", "name": "\u8f7d\u4e66\u98d8\u6d41\u8bb0", "author": "\u5c48\u4e07\u91cc \u8457"}
+{"grade": " 7.6 ", "picture": "https://img3.doubanio.com/mpic/s26036555.jpg", "name": "\u79cb\u6c34\u9a6c\u8e44", "author": "\u9ec4\u607d"}
+{"grade": " 8.6 ", "picture": "https://img3.doubanio.com/mpic/s1015872.jpg", "name": "\u6211\u4eec\u4ee8", "author": "\u6768\u7edb"}
+{"grade": " 8.2 ", "picture": "https://img3.doubanio.com/mpic/s28554740.jpg", "name": "\u5f97\u4e66\u8bb0", "author": "\u97e6\u529b"}
+{"grade": " 8.5 ", "picture": "https://img3.doubanio.com/mpic/s1382600.jpg", "name": "\u5341\u4e8c\u5973\u8272", "author": "\u9ec3\u78a7\u96f2"}
+{"grade": " 7.9 ", "picture": "https://img3.doubanio.com/mpic/s16573131.jpg", "name": "\u4eba\u7c7b\u7684\u66d9\u5149", "author": "(\u5fb7)\u54c1\u56fe\u65af \u7f16"}
+{"grade": " 8.6 ", "picture": "https://img3.doubanio.com/mpic/s5653656.jpg", "name": "\u5c0f\u98de\u4fa0\u5f7c\u5f97\u6f58", "author": "\u8a79\u59c6\u65af\u00b7\u5df4\u91cc"}
+{"grade": " 9.0 ", "picture": "https://img1.doubanio.com/mpic/s1290828.jpg", "name": "\u957f\u889c\u5b50\u76ae\u76ae", "author": "[\u745e\u5178] \u963f\u65af\u7279\u4e3d\u5fb7\u00b7\u6797\u683c\u4f26"}
+{"grade": " 8.6 ", "picture": "https://img3.doubanio.com/mpic/s8494521.jpg", "name": "\u7eff\u91ce\u4ed9\u8e2a", "author": "\u5f17\u5170\u514b\u00b7\u9c8d\u59c6"}
+{"grade": " 8.1 ", "picture": "https://img3.doubanio.com/mpic/s3216625.jpg", "name": "\u5916\u51fa\u5077\u99ac", "author": "\u4f69\u723e\uff0e\u6d3e\u7279\u68ee Petterson, Per"}
+{"grade": " 8.6 ", "picture": "https://img1.doubanio.com/mpic/s11082207.jpg", "name": "\u4e00\u5343\u96f6\u4e00\u591c", "author": "\u6c11\u95f4\u6545\u4e8b"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s28656093.jpg", "name": "\u4e2d\u5dde\u96c6", "author": "[\u91d1]\u5143\u597d\u95ee \u7f16"}
+{"grade": " 9.2 ", "picture": "https://img1.doubanio.com/mpic/s8447328.jpg", "name": "\u968f\u98ce\u800c\u6765\u7684\u739b\u4e3d\u963f\u59e8", "author": "\uff08\u82f1\uff09\u5e15\u00b7\u6797\u00b7\u7279\u62c9\u8299\u65af"}
+{"grade": " 7.9 ", "picture": "https://img3.doubanio.com/mpic/s4604836.jpg", "name": "\u9752\u7389\u6848", "author": "\u8463\u6865"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s27482479.jpg", "name": "\u4eba\u4e4b\u60a3", "author": "\u949f\u53d4\u6cb3"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s7045698.jpg", "name": "\u73b0\u4ee3\u5b66\u4eba\u8c1c\u6848", "author": "\u6563\u6728"}
+{"grade": " 8.7 ", "picture": "https://img1.doubanio.com/mpic/s6863337.jpg", "name": "\u8fd9\u5c31\u662f\u7ebd\u7ea6", "author": "[\u7f8e]E\u2022B\u2022\u6000\u7279"}
+{"grade": " 9.2 ", "picture": "https://img3.doubanio.com/mpic/s4656926.jpg", "name": "\u9673\u5bc5\u606a\u665a\u5e74\u8a69\u6587\u91cb\u8b49", "author": "\u4f59\u82f1\u6642"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s11292321.jpg", "name": "\u865a\u62df\u7684\u5bd3\u8a00", "author": "Brian Massumi"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s3304355.jpg", "name": "\u548c\u98ce\u5802\u65b0\u6587\u96c6", "author": "\u67f3\u5b58\u4ec1"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s27189794.jpg", "name": "\u80af\u7279\u4f20", "author": "\uff3b\u7f8e\uff3d\u5510\u00b7\u7f57\u4f2f\u8328"}
+{"grade": " 7.6 ", "picture": "https://img3.doubanio.com/mpic/s27309842.jpg", "name": "\u5f53\u4ee3\u56fd\u9645\u8bd7\u575b 7", "author": "\u5510\u6653\u6e21"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s27209706.jpg", "name": "\u5c71\u4e0a\u5c71\u4e0b", "author": "\u5415\u5fb7\u5b89"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s27209708.jpg", "name": "\u539f\u4e61\u7684\u8bd7\u795e", "author": "\u6735\u6e14"}
+{"grade": " 8.1 ", "picture": "https://img3.doubanio.com/mpic/s27963915.jpg", "name": "\u575b\u5b50\u8f76\u4e8b", "author": "[\u7f8e] \u534e\u83b1\u58eb\u00b7\u53f2\u8482\u6587\u65af"}
+{"grade": " 8.2 ", "picture": "https://img1.doubanio.com/mpic/s11162297.jpg", "name": "\u4e0e\u6c89\u9ed8\u5bf9\u523a", "author": "\u5510\u6653\u6e21"}
+{"grade": " 8.8 ", "picture": "https://img3.doubanio.com/mpic/s1013103.jpg", "name": "\u5c0f\u98de\u4eba\u5361\u5c14\u677e", "author": "\u963f\u65af\u7279\u4e3d\u5fb7\u30fb\u6797\u683c\u4f26"}
+{"grade": " 8.5 ", "picture": "https://img1.doubanio.com/mpic/s1730737.jpg", "name": "\u7231\u4e3d\u65af\u6f2b\u6e38\u5947\u5883", "author": "\u5218\u6613\u65af\u30fb\u5361\u7f57\u5c14"}
+{"grade": " 8.8 ", "picture": "https://img3.doubanio.com/mpic/s1101412.jpg", "name": "\u65f6\u4ee3\u5e7f\u573a\u7684\u87cb\u87c0", "author": "(\u7f8e)\u4e54\u6cbb\u00b7\u585e\u5c14\u767b"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s7032223.jpg", "name": "\u8fc7\u53bb", "author": "[\u82f1] \u7ea6\u7ff0\u00b7\u7f57\u65af\u91d1"}
+{"grade": " 8.5 ", "picture": "https://img3.doubanio.com/mpic/s24549673.jpg", "name": "\u4e66\u7b80\u4e09\u53e0", "author": "\u8c37\u6797 \u6b62\u5eb5 \u7f16"}
+{"grade": " 7.1 ", "picture": "https://img3.doubanio.com/mpic/s6962442.jpg", "name": "\u9a6c\u70fd\u65e0\u523a", "author": "\u9648\u4e3a\u4eba"}
+{"grade": " 9.3 ", "picture": "https://img1.doubanio.com/mpic/s3316349.jpg", "name": "\u968f\u98ce\u800c\u6765\u7684\u739b\u4e3d\u00b7\u6ce2\u5e73\u65af\u963f\u59e8", "author": "\uff08\u82f1\uff09\u5e15\u00b7\u6797\u00b7\u7279\u62c9\u5f17\u65af"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s10458056.jpg", "name": "\u4eba\u7269\u5f80\u6765\u4e0e\u4e66\u7c4d\u6d41\u8f6c", "author": "\u9648\u6377"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s6353346.jpg", "name": "\u4e66\u684c\u5e73\u9759\u53c8\u4e00\u5e74", "author": "\u738b\u6625\u745c"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s3284794.jpg", "name": "Rockwell Kent", "author": "Don Roberts"}
+{"grade": " 7.7 ", "picture": "https://img1.doubanio.com/mpic/s9071158.jpg", "name": "\u672a\u6765\u5c31\u662f\u73b0\u5728", "author": "[\u82f1]\u7f57\u4f0a\u00b7\u963f\u65af\u79d1\u7279"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s10292744.jpg", "name": "\u8ffd\u5bfb\u7f2a\u65af\u7684\u8e2a\u5f71", "author": "\u6768\u5fb7\u8c6b"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s27160124.jpg", "name": "\u7f8e\u56fd\u5f53\u4ee3\u8bd7\u6b4c\u4e09\u5341\u5e74", "author": "\u5218\u6587"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s1059205.jpg", "name": "\u66d9\u5eb5\u6587\u53f2\u7eed\u5f55", "author": "\u738b\u6811\u6c11"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s10339308.jpg", "name": "\u65b0\u8bd7\u8bc4\u8bba", "author": "\u8c22\u5195"}
+{"grade": " 7.8 ", "picture": "https://img3.doubanio.com/mpic/s27208205.jpg", "name": "\u9ed1\u955c\u5b50", "author": "\u9648\u4e1c\u4e1c"}
+{"grade": " 9.5 ", "picture": "https://img3.doubanio.com/mpic/s4137590.jpg", "name": "\u5c0f\u98de\u4eba\u4e09\u90e8\u66f2", "author": "[\u745e\u5178]\u963f\u00b7\u6797\u683c\u4f26"}
+{"grade": " 8.3 ", "picture": "https://img3.doubanio.com/mpic/s4372605.jpg", "name": "\u7231\u4e3d\u4e1d\u6f2b\u6e38\u5947\u5883", "author": "(\u82f1) \u5361\u7f57\u5c14"}
+{"grade": " 8.5 ", "picture": "https://img1.doubanio.com/mpic/s6973019.jpg", "name": "\u4ece\u524d", "author": "\u8463\u6865"}
+{"grade": " 8.5 ", "picture": "https://img3.doubanio.com/mpic/s1397306.jpg", "name": "\u6de1\u58a8\u75d5", "author": "\u8c37\u6797"}
+{"grade": " 9.0 ", "picture": "https://img1.doubanio.com/mpic/s1763277.jpg", "name": "\u5854\u514b\u7684\u90ca\u5916", "author": "\u4e54\u6cbb\u00b7\u8d5b\u5c14\u767b"}
+{"grade": " 8.1 ", "picture": "https://img1.doubanio.com/mpic/s1282627.jpg", "name": "\u7231\u4e3d\u4e1d\u6f2b\u6e38\u5947\u5883\u8bb0", "author": "\u5361\u6d1b\u5c14"}
+{"grade": " 7.3 ", "picture": "https://img3.doubanio.com/mpic/s7027151.jpg", "name": "\u5356\u4e66\u8bb0", "author": "\u66fe\u5b5c\u8363 \u7b49 \u8457"}
+{"grade": " 9.1 ", "picture": "https://img1.doubanio.com/mpic/s2833698.jpg", "name": "\u739b\u4e3d\u00b7\u6ce2\u5e73\u65af\u963f\u59e8\u56de\u6765\u4e86", "author": "(\u82f1)\u7279\u62c9\u5f17\u65af"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s28547052.jpg", "name": "\u8fd1\u4ee3\u4e2d\u56fd\u57df\u5916\u6c49\u5b66\u8bc4\u8bba\u8403\u7f16", "author": "\u674e\u5b5d\u8fc1 \u7f16\u6821"}
+{"grade": " 7.8 ", "picture": "https://img3.doubanio.com/mpic/s27137722.jpg", "name": "\u4e94\u59d0\u59b9", "author": "\uff08\u8377\uff09\u4f2f\u683c\u970d\u5c14\u8328"}
+{"grade": " 7.5 ", "picture": "https://img3.doubanio.com/mpic/s26743604.jpg", "name": "\u4e16\u4fd7\u7684\u5723\u6b4c", "author": "(\u5c3c\u52a0\u62c9\u74dc)\u9c81\u6587\u00b7\u8fbe\u91cc\u5965"}
+{"grade": " 8.5 ", "picture": "https://img3.doubanio.com/mpic/s11308825.jpg", "name": "\u8bed\u5883\u63d0\u4f9b\u8005", "author": "\u3010\u7f8e\u3011\u9a6c\u683c\u00b7\u4e50\u8299\u4e54\u4f9d"}
+{"grade": " 8.6 ", "picture": "https://img3.doubanio.com/mpic/s3485395.jpg", "name": "\u7ec8\u671d\u91c7\u84dd", "author": "\u626c\u4e4b\u6c34"}
+{"grade": " 8.6 ", "picture": "https://img3.doubanio.com/mpic/s2931481.jpg", "name": "\u5047\u8bdd\u56fd\u5386\u9669\u8bb0", "author": "(\u610f)\u7f57\u5927\u91cc"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s1198928.jpg", "name": "\u66d9\u5eb5\u6587\u53f2\u6742\u8457", "author": "\u738b\u6811\u6c11"}
+{"grade": " 7.4 ", "picture": "https://img3.doubanio.com/mpic/s4660036.jpg", "name": "\u4e2d\u56fd\u7ecf\u5b66\u53f2", "author": "\u9a6c\u5b97\u970d"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s15744086.jpg", "name": "\u5c14\u96c5\u8bc2\u6797", "author": "\u6731\u7956\u5ef6"}
+{"grade": " 7.8 ", "picture": "https://img3.doubanio.com/mpic/s28114174.jpg", "name": "\u521d\u7167\u697c\u6587\u96c6", "author": "\u6731\u5b63\u6d77"}
+{"grade": " 8.1 ", "picture": "https://img3.doubanio.com/mpic/s7793481.jpg", "name": "\u6797\u4e2d\u8def", "author": "\u9648\u8238"}
+{"grade": " 9.2 ", "picture": "https://img3.doubanio.com/mpic/s2098833.jpg", "name": "\u5c0f\u98de\u4eba\u53c8\u98de\u4e86", "author": "(\u745e\u5178)\u6797\u683c\u4f26"}
+{"grade": " 8.8 ", "picture": "https://img1.doubanio.com/mpic/s1012008.jpg", "name": "\u8bcd\u7684\u53d8\u594f", "author": "\u9648\u4e1c\u4e1c"}
+{"grade": " 7.8 ", "picture": "https://img1.doubanio.com/mpic/s5827607.jpg", "name": "\u683c\u5217\u4f5b\u6e38\u8bb0", "author": "\u4e54\u7eb3\u68ee\u00b7\u65af\u5a01\u592b\u7279"}
+{"grade": " 8.0 ", "picture": "https://img3.doubanio.com/mpic/s2280642.jpg", "name": "\u53e4\u5e0c\u814a\u795e\u8bdd\u4e0e\u4f20\u8bf4", "author": "[\u5fb7]\u65af\u5a01\u5e03"}
+{"grade": " 7.6 ", "picture": "https://img3.doubanio.com/mpic/s6942035.jpg", "name": "\u9a6c\u514b\u65af\u00b7\u97e6\u4f2f\u827a\u672f\u968f\u7b14", "author": "\u9a6c\u514b\u65af\u00b7\u97e6\u4f2f"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s6972204.jpg", "name": "\u739b\u4e3d\u6ce2\u5e73\u65af\u963f\u59e8\u56de\u6765\u4e86", "author": "[\u82f1] \u7279\u62c9\u5f17\u65af"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s27984955.jpg", "name": "\u72c4\u66f4\u65af\u4f20", "author": "\u5f7c\u5f97\u00b7\u963f\u514b\u7f57\u4f0a\u5fb7 (Peter Ackroyd)"}
+{"grade": " 8.8 ", "picture": "https://img3.doubanio.com/mpic/s28019925.jpg", "name": "\u653f\u6559\u5b58\u7eed\u4e0e\u6587\u6559\u8f6c\u578b", "author": "\u9646\u80e4"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s11311810.jpg", "name": "\u6c49\u8bed\u5927\u8bcd\u5178\u4e66\u8bc1\u6eaf\u6e90", "author": "\u76f8\u5b87\u5251"}
+{"grade": " 7.4 ", "picture": "https://img3.doubanio.com/mpic/s27223812.jpg", "name": "\u5fcd\u5bd2\u5e90\u5b66\u8bb0", "author": "\u5f20\u6656 \u7f16"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s28113879.jpg", "name": "\u97e9\u6587\u8d77", "author": "[\u6e05]\u6797\u4e91\u94ed"}
+{"grade": " 9.3 ", "picture": "https://img3.doubanio.com/mpic/s1399605.jpg", "name": "\u53e4\u8bd7\u6587\u540d\u7269\u65b0\u8bc1\uff08\u5168\u4e8c\u518c\uff09", "author": "\u626c\u4e4b\u6c34"}
+{"grade": " 8.1 ", "picture": "https://img3.doubanio.com/mpic/s5790143.jpg", "name": "\u6566\u714c\u7ecf\u7c4d\u53d9\u5f55", "author": "\u8bb8\u5efa\u5e73"}
+{"grade": " 8.2 ", "picture": "https://img3.doubanio.com/mpic/s3801261.jpg", "name": "\u5c1a\u4e66\u5b66\u53f2", "author": "\u5218\u8d77\u91ea"}
+{"grade": " 7.8 ", "picture": "https://img3.doubanio.com/mpic/s6472223.jpg", "name": "\u987e\u9889\u521a\u8bfb\u4e66\u7b14\u8bb0", "author": "\u987e\u9889\u521a"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s28114173.jpg", "name": "\u8bf4\u82d1\u6821\u7406 \u65b0\u5e8f\u6821\u7406", "author": "\u6731\u5b63\u6d77"}
+{"grade": " 8.8 ", "picture": "https://img3.doubanio.com/mpic/s27850451.jpg", "name": "\u5185\u5730\u7814\u7a76", "author": "\u8427\u5f00\u611a"}
+{"grade": " 9.6 ", "picture": "https://img3.doubanio.com/mpic/s2957301.jpg", "name": "\u9b54\u6cd5\u5e08\u7684\u5e3d\u5b50", "author": "(\u82ac\u5170)\u626c\u677e"}
+{"grade": " 9.0 ", "picture": "https://img3.doubanio.com/mpic/s3399755.jpg", "name": "\u4f59\u6012\u77ed\u8bd7\u9009", "author": "\u4f59\u6012"}
+{"grade": " 9.0 ", "picture": "https://img3.doubanio.com/mpic/s3925132.jpg", "name": "\u5e0c\u814a\u7684\u795e\u8bdd\u548c\u4f20\u8bf4", "author": "\u65af\u5a01\u5e03"}
+{"grade": " 7.3 ", "picture": "https://img3.doubanio.com/mpic/s7640895.jpg", "name": "\u795e\u8bdd\u4e0e\u955c\u50cf", "author": "\u59e5\u6d77\u6c38"}
+{"grade": " 8.2 ", "picture": "https://img3.doubanio.com/mpic/s9070813.jpg", "name": "\u753b\u5546\u65e5\u8bb0", "author": "(\u6cd5)\u96f7\u5948\u00b7\u8a79\u6cca\u5c14"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s28109105.jpg", "name": "\u7ffb\u8bd1\u5bb6\u6751\u4e0a\u6625\u6811", "author": "\u7530\u5efa\u56fd"}
+{"grade": " 7.6 ", "picture": "https://img1.doubanio.com/mpic/s9821538.jpg", "name": "\u683c\u5217\u4f5b\u6e38\u8bb0", "author": "(\u82f1)\u65af\u5a01\u592b\u7279"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s28071065.jpg", "name": "\u8de8\u8d8a\u56fd\u754c\u7684\u6258\u5c14\u65af\u6cf0", "author": "[\u7f8e]\u7ea6\u7ff0\u00b7\u4f2f\u7279\u00b7\u798f\u65af\u7279\uff08John Burt FosterJr.\uff09"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s28291847.jpg", "name": "\u6c49\u4e66\u827a\u6587\u5fd7\u95ee\u7b54", "author": "\u53f6\u957f\u9752  \u8457"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s28296403.jpg", "name": "\u5f20\u4e4b\u6d1e\u8bd7\u6587\u96c6\uff08\u589e\u8ba2\u672c\uff09", "author": "[\u6e05]\u5f20\u4e4b\u6d1e  \u8457"}
+{"grade": " 8.3 ", "picture": "https://img1.doubanio.com/mpic/s10433098.jpg", "name": "\u4e16\u754c\u4e0a\u53e4\u53f2\u8bb2\u4e49", "author": "\u96f7\u6d77\u5b97 \u8457"}
+{"grade": " 7.8 ", "picture": "https://img1.doubanio.com/mpic/s27973728.jpg", "name": "\u5de5\u5177\u4e66\u7684\u8bde\u751f", "author": "(\u7f8e) \u5b89\u00b7\u5e03\u83b1\u5c14"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s27267100.jpg", "name": "\u5d14\u4e1c\u58c1\u9057\u4e66", "author": "\u5d14\u8ff0 \u8457\uff0c\u987e\u9889\u521a \u7f16\u8ba2"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s28101991.jpg", "name": "\u7ba7\u884d\u96c6", "author": "[\u6e05]\u9648\u7ef4\u5d27  \u8f91"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s6473345.jpg", "name": "\u987e\u9889\u521a\u6587\u5e93\u53e4\u7c4d\u4e66\u76ee", "author": "\u987e\u9889\u521a"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s28095732.jpg", "name": "\u5e08\u4f0f\u5802\u4e1b\u4e66\uff08\u516825\u518c\uff09", "author": "\u9648\u6bbf"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s9062437.jpg", "name": "\u5185\u5730\u7814\u7a76", "author": "\u8427\u5f00\u611a"}
+{"grade": " 8.2 ", "picture": "https://img3.doubanio.com/mpic/s2746222.jpg", "name": "\u9b54\u6cd5\u5e08\u7684\u5e3d\u5b50", "author": "(\u82ac)\u6258\u8299\u00b7\u626c\u677e"}
+{"grade": " 8.2 ", "picture": "https://img3.doubanio.com/mpic/s1502190.jpg", "name": "\u535a\u7eb3\u5bcc\u74e6\u8bd7\u9009", "author": "\u535a\u7eb3\u5bcc\u74e6"}
+{"grade": " 8.7 ", "picture": "https://img3.doubanio.com/mpic/s2660395.jpg", "name": "\u5965\u5fb7\u4fee\u7eaa", "author": "\u8377\u9a6c"}
+{"grade": " 8.5 ", "picture": "https://img3.doubanio.com/mpic/s7084324.jpg", "name": "\u5f53\u4ee3\u56fd\u9645\u8bd7\u575b 2", "author": "\u5510\u6653\u6e21\uff08\u7f16\uff09"}
+{"grade": " 7.8 ", "picture": "https://img3.doubanio.com/mpic/s11193891.jpg", "name": "\u8fbe\u5229\u5929\u624d\u65e5\u8bb0", "author": "(\u897f) \u8fbe\u5229"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s28022995.jpg", "name": "\u4e8c\u5341\u4e16\u7eaa\u54f2\u5b66", "author": "[\u82f1] A.J\u00b7\u827e\u8036\u5c14"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s28172851.jpg", "name": "\u73b0\u4ee3\u6027\u548c\u5927\u90fd\u5e02", "author": "[\u82f1] \u5f7c\u5f97\u00b7\u5e03\u9c81\u514b"}
+{"grade": " 8.7 ", "picture": "https://img1.doubanio.com/mpic/s3600348.jpg", "name": "\u5802\u5409\u8bc3\u5fb7\uff08\u4e0a\u4e0b\uff09", "author": "\u585e\u4e07\u63d0\u65af"}
+{"grade": " 8.0 ", "picture": "https://img3.doubanio.com/mpic/s1074103.jpg", "name": "\u9c81\u6ee8\u5b59\u98d8\u6d41\u8bb0", "author": "\u7b1b\u798f(\u82f1)"}
+{"grade": " 8.0 ", "picture": "https://img3.doubanio.com/mpic/s5642523.jpg", "name": "\u5343\u9877\u5802\u4e66\u76ee", "author": "(\u6e05)\u9ec4\u865e\u7a37\u64b0 ; \u77bf\u51e4\u8d77\uff0c\u6f58\u666f\u90d1\u6574\u7406"}
+{"grade": " 7.4 ", "picture": "https://img3.doubanio.com/mpic/s28536392.jpg", "name": "\u5185\u85e4\u6e56\u5357", "author": "\u5085\u4f5b\u679c"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s7996495.jpg", "name": "Too Much to Know", "author": "Ann M. Blair"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s3765932.jpg", "name": "\u85cf\u4e66\u9898\u8bc6 \u534e\u5ef6\u5e74\u5ba4\u9898\u8dcb \u96c1\u5f71\u658b\u9898\u8dcb", "author": "(\u6e05)\u6c6a\u7490//\u5085\u4ee5\u793c//\u674e\u5e0c\u5723"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s5683738.jpg", "name": "\u9752\u6eaa\u96c6", "author": "\u7a0b\u5ef7\u795a"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s28046433.jpg", "name": "\u9646\u9f9f\u8499\u5168\u96c6\u6821\u6ce8", "author": "\u4f55\u9521\u5149  \u6821\u6ce8"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s27289735.jpg", "name": "\u9a6c\u738b\u5806\u5e1b\u4e66\u5468\u6613\u91ca\u6587\u6821\u6ce8", "author": "\u4e8e\u8c6a\u4eae"}
+{"grade": " 8.7 ", "picture": "https://img3.doubanio.com/mpic/s28346896.jpg", "name": "\u516c\u5bd3\u91cc\u7684\u5854", "author": "\u59dc\u6d9b"}
+{"grade": " 7.8 ", "picture": "https://img3.doubanio.com/mpic/s4489585.jpg", "name": "\u7834\u788e\u7684\u4e3b\u89c2\u94dc\u50cf", "author": "\u9648  \u6811    \u9009\u7f16"}
+{"grade": " 8.7 ", "picture": "https://img3.doubanio.com/mpic/s1067911.jpg", "name": "\u7a97\u8fb9\u7684\u5c0f\u8c46\u8c46", "author": "[\u65e5] \u9ed1\u67f3\u5f7b\u5b50 \u8457"}
+{"grade": " 8.7 ", "picture": "https://img3.doubanio.com/mpic/s3764035.jpg", "name": "\u4f0a\u5229\u4e9a\u7279", "author": "(\u53e4\u5e0c\u814a)\u8377\u9a6c(Homer)"}
+{"grade": " 8.8 ", "picture": "https://img3.doubanio.com/mpic/s4273425.jpg", "name": "The Odyssey", "author": "Homer"}
+{"grade": " 7.6 ", "picture": "https://img3.doubanio.com/mpic/s4640172.jpg", "name": "\u53e4\u57ce\u5f80\u4e8b", "author": "\u5510\u5efa\u5149 \u7f16"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s28022996.jpg", "name": "\u8bed\u8a00\u3001\u771f\u7406\u4e0e\u903b\u8f91", "author": "[\u82f1] A.J\u00b7\u827e\u8036\u5c14"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s26653877.jpg", "name": "\u542f\u8499\u8005", "author": "\u8521\u6653\u6ee8"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s2375170.jpg", "name": "\u9a6c\u96c5\u53ef\u592b\u65af\u57fa\u5c0f\u4f20", "author": "[\u6cd5]\u972d\u5c14\u838e.\u7279\u91cc\u6c83\u96f7"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s3572827.jpg", "name": "\u4e8c\u5341\u4e16\u7eaa\u54f2\u5b66", "author": "(\u82f1)\u827e\u8036\u5c14"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s28054328.jpg", "name": "\u7ecf\u5b66\u6587\u732e\u7684\u884d\u751f\u548c\u901a\u4fd7\u5316", "author": "\u987e\u6c38\u65b0"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s4036604.jpg", "name": "Politics and Sinology", "author": "Joshua A. Fogel"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s28396406.jpg", "name": "\u793e\u4f1a\u6743\u529b\u7684\u6765\u6e90(\u7b2c\u4e09\u5377)", "author": "\u8fc8\u514b\u5c14\u00b7\u66fc"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s3839942.jpg", "name": "\u516b\u5343\u5377\u697c\u4e66\u76ee\uff08\u5168\u4e09\u518c\uff09", "author": "\uff08\u6e05\uff09\u4e01\u7acb\u4e2d\u7f16"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s28045654.jpg", "name": "\u65b0\u8f91\u7ea2\u96e8\u697c\u9898\u8bb0 \u5f90\u6c0f\u5bb6\u85cf\u4e66\u76ee", "author": "[\u660e]\u5f90\uff08\u706b\u52c3\uff09\u7b49 \u64b0"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s28021869.jpg", "name": "\u5192\u8f9f\u7586\u5168\u96c6", "author": "[\u6e05]\u5192\u8f9f\u7586  \u8457\u8f91"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s7006839.jpg", "name": "\u6a2a\u9633\u672d\u8bb0", "author": "\u3010\u6e05\u3011\u5434\u627f\u5fd7"}
+{"grade": " 8.0 ", "picture": "https://img1.doubanio.com/mpic/s5673478.jpg", "name": "\u4e2d\u56fd\u73b0\u5f53\u4ee3\u6587\u5b66\u5b66\u79d1\u6982\u8981", "author": "\u6e29\u5112\u654f"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s25801437.jpg", "name": "\u5f53\u4ee3\u6b27\u7f8e\u8bd7\u9009", "author": "\u738b\u5bb6\u65b0"}
+{"grade": " 6.8 ", "picture": "https://img1.doubanio.com/mpic/s4468488.jpg", "name": "\u6d3b\u8272\u751f\u9999", "author": "\u8521\u5bb6\u56ed"}
+{"grade": " 6.5 ", "picture": "https://img1.doubanio.com/mpic/s4640129.jpg", "name": "\u98ce\u7269\u7684\u5386\u53f2", "author": "\u5510\u5efa\u5149 \u4e3b\u7f16"}
+{"grade": " 9.3 ", "picture": "https://img1.doubanio.com/mpic/s2461367.jpg", "name": "\u7a97\u8fb9\u7684\u963f\u5f7b", "author": "(\u65e5)\u9ed1\u67f3\u5f7b\u5b50"}
+{"grade": " 9.2 ", "picture": "https://img3.doubanio.com/mpic/s4001254.jpg", "name": "\u7a97\u65c1\u7684\u5c0f\u8c46\u8c46", "author": "[\u65e5\u672c]\u9ed1\u67f3\u5f7b\u5b50"}
+{"grade": " 9.5 ", "picture": "https://img3.doubanio.com/mpic/s4764335.jpg", "name": "The Iliad of Homer", "author": "Homer"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s6416141.jpg", "name": "\u8bed\u8a00\u3001\u771f\u7406\u4e0e\u903b\u8f91", "author": "[\u82f1]A\u00b7J\u00b7\u827e\u8036\u5c14"}
+{"grade": " 7.5 ", "picture": "https://img1.doubanio.com/mpic/s7032267.jpg", "name": "\u72ec\u7acb\u4e66\u5e97\uff0c\u4f60\u597d\uff01\uff08\u7b2c\u4e8c\u5b63\uff09", "author": "\u859b\u539f"}
+{"grade": " 7.6 ", "picture": "https://img3.doubanio.com/mpic/s10029684.jpg", "name": "\u7b51\u5c31\u6211\u4eec\u7684\u56fd\u5bb6", "author": "\u7406\u67e5\u5fb7.\u7f57\u8482"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s28042498.jpg", "name": "\u53f2\u8bb0\u4f1a\u6ce8\u8003\u8bc1", "author": "[\u6c49]\u53f8\u9a6c\u8fc1  \u64b0"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s28104183.jpg", "name": "\u53e4\u6284\u672c\u300a\u6587\u9009\u96c6\u6ce8\u300b\u7814\u7a76", "author": "\u91d1\u5c11\u534e"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s28454061.jpg", "name": "\u793e\u4f1a\u6743\u529b\u7684\u6765\u6e90\uff08\u7b2c\u56db\u5377\uff09", "author": "[\u82f1] \u8fc8\u514b\u5c14\u00b7\u66fc"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s11206408.jpg", "name": "The Sources of Social Power", "author": "Michael Mann"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s27992805.jpg", "name": "\u6731\u5f5d\u5c0a\u5e74\u8c31", "author": "\u5f20\u5b97\u53cb"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s3746677.jpg", "name": "\u83ab\u53cb\u829d\u8bd7\u6587\u96c6\uff08\u4e0a\u4e0b\uff09", "author": "\u5f20\u5251"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s6047490.jpg", "name": "\u72ec\u6f09\u8bd7\u7b3a\uff08\u4e0a\u4e0b\u518c\uff09", "author": "\u9648\u606d\u4f0a"}
+{"grade": " 8.3 ", "picture": "https://img3.doubanio.com/mpic/s1673320.jpg", "name": "\u4e2d\u56fd\u5c0f\u8bf4\u53d9\u4e8b\u6a21\u5f0f\u7684\u8f6c\u53d8", "author": "\u9648\u5e73\u539f"}
+{"grade": " 8.9 ", "picture": "https://img3.doubanio.com/mpic/s27298221.jpg", "name": "\u4eea\u5f0f\u7684\u7126\u5507", "author": "\u8331\u8438"}
+{"grade": " 8.9 ", "picture": "https://img1.doubanio.com/mpic/s3616689.jpg", "name": "\u6279\u8bc4\u7684\u6fc0\u60c5", "author": "\uff08\u58a8\u897f\u54e5\uff09\u5965\u00b7\u5e15\u65af"}
+{"grade": " 8.4 ", "picture": "https://img3.doubanio.com/mpic/s25792044.jpg", "name": "\u6700\u660e\u4eae\u4e0e\u6700\u9ed1\u6697\u7684", "author": "\u6c88\u777f \u738b\u5bb6\u65b0\u7f16"}
+{"grade": " 9.3 ", "picture": "https://img3.doubanio.com/mpic/s2782641.jpg", "name": "The Odyssey of Homer", "author": "Homer"}
+{"grade": " 9.1 ", "picture": "https://img1.doubanio.com/mpic/s1947278.jpg", "name": "\u4e24\u4e2a\u610f\u8fbe", "author": "(\u65e5)\u677e\u8c37\u7f8e\u4ee3\u5b50"}
+{"grade": " 7.5 ", "picture": "https://img3.doubanio.com/mpic/s27277555.jpg", "name": "\u8427\u7ea2\u7684\u60c5\u4eba\u4eec", "author": "\u5468\u5f66\u654f"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s8871755.jpg", "name": "\u9ed1\u683c\u5c14\u4e0e\u54f2\u5b66\u53f2", "author": "\uff08\u5fb7\uff09\u514b\u52b3\u65af\u00b7\u675c\u8f9b"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s4516448.jpg", "name": "\u53f2\u8bb0\u4f1a\u6ce8\u8003\u8bc1", "author": "\uff08\u65e5\uff09\u6cf7\u5ddd\u8d44\u8a00"}
+{"grade": " 9.5 ", "picture": "https://img3.doubanio.com/mpic/s1316830.jpg", "name": "\u53f2\u8bb0\u4f1a\u6ce8\u8003\u8bc1", "author": "\u53f8\u9a6c\u8fc1"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s25959673.jpg", "name": "The Sources of Social Power", "author": "Michael Mann"}
+{"grade": " 9.2 ", "picture": "https://img1.doubanio.com/mpic/s3662179.jpg", "name": "\u53f2\u8bb0\u4f1a\u6ce8\u8003\u8bc1\u9644\u6821\u8865\uff08\u4e0a\u3001\u4e0b\uff09", "author": "(\u6c49)\u53f8\u9a6c\u8fc1"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s28058215.jpg", "name": "\u5b8b\u4e91\u5f6c\u6587\u96c6", "author": "\u5b8b\u4e91\u5f6c  \u8457"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s2768380.jpg", "name": "\u5f20\u88d5\u948a\u8bd7\u6587\u96c6", "author": "\u5f20\u88d5\u948a"}
+{"grade": " 7.5 ", "picture": "https://img1.doubanio.com/mpic/s4076857.jpg", "name": "\u9676\u5f18\u666f\u96c6\u6821\u6ce8", "author": "[\u5357\u671d\u6881] \u9676\u5f18\u666f"}
+{"grade": " 8.0 ", "picture": "https://img3.doubanio.com/mpic/s3241796.jpg", "name": "\u4e2d\u56fd\u5c0f\u8bf4\u53d9\u4e8b\u6a21\u5f0f\u7684\u8f6c\u53d8", "author": "\u9648\u5e73\u539f"}
+{"grade": " 9.7 ", "picture": "https://img3.doubanio.com/mpic/s27237372.jpg", "name": "\u9e1f\u5750\u7985\u4e0e\u4e4c\u5c45\u6446", "author": "\u987b\u5f25"}
+{"grade": " 8.4 ", "picture": "https://img3.doubanio.com/mpic/s1469651.jpg", "name": "\u4e2d\u56fd\u73b0\u4ee3\u5c0f\u8bf4\u7684\u8d77\u70b9", "author": "\u9648\u5e73\u539f"}
+{"grade": " 8.5 ", "picture": "https://img3.doubanio.com/mpic/s4155322.jpg", "name": "\u4e2d\u56fd\u5c0f\u8bf4\u53d9\u4e8b\u6a21\u5f0f\u7684\u8f6c\u53d8", "author": "\u9648\u5e73\u539f"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s27114625.jpg", "name": "\u4eea\u5f0f\u7684\u7126\u5507", "author": "\u8331\u8438"}
+{"grade": " 8.3 ", "picture": "https://img3.doubanio.com/mpic/s4464101.jpg", "name": "\u4f0a\u5229\u63d0\u65af\u8bd7\u9009;\u7c73\u6d1b\u8212\uff08\u7c73\u6c83\u4ec0\uff09\u8bd7\u9009;\u88ab\u62ef\u6551\u7684\u820c\u5934", "author": "\u4f0a\u5229\u63d0\u65af\uff1b\u7c73\u6d1b\u8212\uff08\u7c73\u6c83\u4ec0\uff09\uff1b\u5361\u5167\u63d0"}
+{"grade": " 8.1 ", "picture": "https://img3.doubanio.com/mpic/s3507580.jpg", "name": "\u5f53\u6211\u8c08\u8dd1\u6b65\u65f6\u6211\u8c08\u4e9b\u4ec0\u4e48", "author": "[\u65e5] \u6751\u4e0a\u6625\u6811"}
+{"grade": " 8.8 ", "picture": "https://img3.doubanio.com/mpic/s1268251.jpg", "name": "\u5c40\u5916\u4eba", "author": "(\u6cd5)\u963f\u5c14\u8d1d\u30fb\u52a0\u7f2a"}
+{"grade": " 8.3 ", "picture": "https://img3.doubanio.com/mpic/s6336986.jpg", "name": "\u9ed1\u683c\u5c14\u300a\u7cbe\u795e\u73b0\u8c61\u5b66\u300b\u7684\u73b0\u8c61\u5b66\u9610\u91ca", "author": "\u82ac\u514b"}
+{"grade": " 8.7 ", "picture": "https://img3.doubanio.com/mpic/s1164621.jpg", "name": "\u4e24\u4e2a\u4f0a\u8fbe", "author": "\u677e\u8c37\u7f8e\u4ee3\u5b50"}
+{"grade": " 8.5 ", "picture": "https://img3.doubanio.com/mpic/s6999295.jpg", "name": "\u5c1a\u4e66\u5b54\u4f20\u53c2\u6b63\uff08\u4e0a\u4e0b\u518c\uff09", "author": "\u738b\u5148\u8c26 \u8457"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s27012162.jpg", "name": "The Language of Contention", "author": "Sidney Tarrow"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s27598061.jpg", "name": "\u7fc1\u540c\u9fa2\u4e66\u4fe1\u7b3a\u91ca", "author": "\u8d75\u5e73 \u7b3a\u91ca"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s27844319.jpg", "name": "\u5bb9\u5e9a\u6742\u8457\u96c6", "author": "\u66fe\u5baa\u901a \u7f16"}
+{"grade": " 7.6 ", "picture": "https://img3.doubanio.com/mpic/s5647720.jpg", "name": "\u4e2d\u56fd\u6587\u5b66\u7814\u7a76\u73b0\u4ee3\u5316\u8fdb\u7a0b\u4e8c\u7f16", "author": "\u9648\u5e73\u539f"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s6040253.jpg", "name": "\u5168\u4e0a\u53e4\u4e09\u4ee3\u79e6\u6c49\u4e09\u56fd\u516d\u671d\u6587\uff08\u5168\u516d\u518c\uff09", "author": "\u4e25\u53ef\u5747"}
+{"grade": " 7.5 ", "picture": "https://img3.doubanio.com/mpic/s5825501.jpg", "name": "\u4e2d\u56fd\u53e4\u4ee3\u5c0f\u8bf4\u53f2\u53d9\u8bba", "author": "\u5218\u52c7\u5f3a"}
+{"grade": " 8.6 ", "picture": "https://img3.doubanio.com/mpic/s1944153.jpg", "name": "\u4e2d\u56fd\u53d9\u4e8b\u5b66", "author": "\u6d66\u5b89\u8fea\u8bb2\u6f14"}
+{"grade": " 8.3 ", "picture": "https://img1.doubanio.com/mpic/s2865628.jpg", "name": "\u751f\u6d3b\uff0c\u6211\u7684\u59d0\u59b9", "author": "\u5e15\u65af\u6377\u5c14\u7eb3\u514b"}
+{"grade": " 8.3 ", "picture": "https://img1.doubanio.com/mpic/s4144938.jpg", "name": "\u4f5c\u5bb6\u59ff\u6001\u4e0e\u81ea\u6211\u610f\u8bc6", "author": "\u6d2a\u5b50\u8bda"}
+{"grade": " 8.3 ", "picture": "https://img3.doubanio.com/mpic/s4363464.jpg", "name": "1Q84 BOOK 1", "author": "[\u65e5] \u6751\u4e0a\u6625\u6811"}
+{"grade": " 7.9 ", "picture": "https://img3.doubanio.com/mpic/s1164620.jpg", "name": "\u6d88\u5931\u5728\u6708\u591c", "author": "\u4f50\u4f50\u6728\u8d6b\u5b50"}
+{"grade": " 9.3 ", "picture": "https://img3.doubanio.com/mpic/s1371020.jpg", "name": "\u98a8\u8207\u6a39\u4e4b\u6b4c", "author": "\u5b89\u623f\u76f4\u5b50"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s27629839.jpg", "name": "\u6625\u79cb\u516c\u7f8a\u4f20\u6ce8\u758f", "author": "[\u6c49]\u4f55\u4f11 \u6ce8"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s9107087.jpg", "name": "Putting Social Movements in their Place", "author": "Professor Doug McAdam"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s27374276.jpg", "name": "\u80e1\u9002\u96f7\u9707\u6765\u5f80\u4e66\u4fe1\u9009\u96c6", "author": "\u4e07\u4e3d\u5a1f\u7f16\u6ce8"}
+{"grade": " 8.2 ", "picture": "https://img1.doubanio.com/mpic/s3280459.jpg", "name": "\u4e2d\u56fd\u65b0\u6587\u5b66\u53f2\u7a3f\uff08\u4e0a\u4e0b\uff09", "author": "\u738b\u7476"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s3444281.jpg", "name": "\u5168\u4e0a\u53e4\u4e09\u4ee3\u79e6\u6f22\u4e09\u570b\u516d\u671d\u6587", "author": "\u56b4\u53ef\u5747"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s1987809.jpg", "name": "\u5168\u4e0a\u53e4\u4e09\u4ee3\u79e6\u6c49\u4e09\u56fd\u516d\u671d\u6587(\u516810\u518c) (\u5e73\u88c5)", "author": "\u9648\u5ef6\u5609"}
+{"grade": " 8.9 ", "picture": "https://img1.doubanio.com/mpic/s2401209.jpg", "name": "\u65b0\u8f2f\u641c\u795e\u8a18 \u65b0\u8f2f\u641c\u795e\u5f8c\u8a18", "author": "[\u664b]\u5e72\u5b9d\u3001[\u5b8b]\u9676\u6f5c"}
+{"grade": " 8.5 ", "picture": "https://img1.doubanio.com/mpic/s10064909.jpg", "name": "\u660e\u4ee3\u5c0f\u8bf4\u56db\u5927\u5947\u4e66", "author": "\u6d66\u5b89\u8fea"}
+{"grade": " 8.0 ", "picture": "https://img3.doubanio.com/mpic/s2602803.jpg", "name": "\u7f8e\u56fd\u73b0\u4ee3\u516d\u8bd7\u4eba\u9009\u96c6", "author": "(\u7f8e)\u5e9e\u5fb7\u7b49\u4eba"}
+{"grade": " 8.3 ", "picture": "https://img1.doubanio.com/mpic/s3860019.jpg", "name": "\u4fc4\u82cf\u5f62\u5f0f\u4e3b\u4e49\u6587\u8bba\u9009", "author": "\u8328\u7ef4\u5766\u00b7\u6258\u591a\u7f57\u592b\u7f16\u9009"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s1377312.jpg", "name": "\u6d88\u5931\u5728\u6708\u591c", "author": "\u4f50\u4f50\u6728\u8d6b\u5b50"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s28669511.jpg", "name": "\u6d77\u6d0b\u53f2\u4e0a\u7684\u8fd1\u4ee3\u4e2d\u56fd", "author": "\u6751\u4e0a\u536b"}
+{"grade": " 9.1 ", "picture": "https://img3.doubanio.com/mpic/s10423023.jpg", "name": "\u94f6\u5b54\u96c0", "author": "\u5b89\u623f\u76f4\u5b50"}
+{"grade": " 8.0 ", "picture": "https://img3.doubanio.com/mpic/s27621372.jpg", "name": "\u6625\u79cb\u516c\u7f8a\u4f20\u6ce8\u758f", "author": "[\u6625\u79cb] \u5b54\u5b50 \u4fee"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s28047732.jpg", "name": "\u5510\u4ee3\u65e5\u4eba\u6765\u5f80\u957f\u5b89\u8003", "author": "\u5f20\u9e4f\u4e00"}
+{"grade": " 8.1 ", "picture": "https://img3.doubanio.com/mpic/s3276884.jpg", "name": "\u675c\u752b\u7684\u4e94\u57ce", "author": "\u8d56\u745e\u548c"}
+{"grade": " 9.0 ", "picture": "https://img3.doubanio.com/mpic/s2180824.jpg", "name": "\u67f3\u5982\u662f\u522b\u4f20\uff08\u5168\u4e09\u518c\uff09", "author": "\u9648\u5bc5\u606a"}
+{"grade": " 9.2 ", "picture": "https://img1.doubanio.com/mpic/s27215029.jpg", "name": "\u5168\u7956\u671b\u96c6\u6c47\u6821\u96c6\u6ce8", "author": "\u5168\u7956\u671b"}
+{"grade": " 7.5 ", "picture": "https://img3.doubanio.com/mpic/s4379262.jpg", "name": "\u516b\u4ee3\u8ac7\u85ea\u6821\u7b8b", "author": "(\u968b) \u9633\u73a0"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s2782526.jpg", "name": "\u6155\u5e90\u8bba\u5b66\u96c6\uff08\u4e8c\uff09", "author": "\u738b\u53d4\u5cb7"}
+{"grade": " 8.4 ", "picture": "https://img3.doubanio.com/mpic/s1490805.jpg", "name": "\u300a\u534e\u5c14\u8857\u65e5\u62a5\u300b\u662f\u5982\u4f55\u8bb2\u6545\u4e8b\u7684", "author": "[\u7f8e] \u5a01\u5ec9\u00b7E.\u5e03\u9686\u4ee3\u5c14"}
+{"grade": " 8.0 ", "picture": "https://img3.doubanio.com/mpic/s4547766.jpg", "name": "\u4e5f\u540c\u6b22\u4e50\u4e5f\u540c\u6101", "author": "\u9648\u6d41\u6c42"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s28617475.jpg", "name": "\u5f90\u4e2d\u8212\u6587\u5b58", "author": "\u5f90\u4e2d\u8212"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s1761375.jpg", "name": "\u4e2d\u56fd\u73b0\u4ee3\u6587\u5b66\u8bba\u96c6\uff08\u5168\u4e24\u518c\uff09", "author": "\u6a0a\u9a8f"}
+{"grade": " 8.6 ", "picture": "https://img3.doubanio.com/mpic/s1757846.jpg", "name": "\u518d\u9020\u6587\u660e\u7684\u5c1d\u8bd5", "author": "\u7f57\u5fd7\u7530"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s27319396.jpg", "name": "\u5317\u5c71\u5f55\u6821\u6ce8\uff08\u4e0a\u4e0b\uff09", "author": "\u795e\u6e05  \u8457"}
+{"grade": " 8.0 ", "picture": "https://img3.doubanio.com/mpic/s2824794.jpg", "name": "\u6d1b\u5c14\u4f3d\u8bd7\u9009", "author": "[\u897f\u73ed\u7259]\u6d1b\u5c14\u4f3d \u8457"}
+{"grade": " 8.1 ", "picture": "https://img1.doubanio.com/mpic/s3217629.jpg", "name": "\u610f\u5927\u5229\u8bd7\u9009", "author": "[\u610f]\u4f46\u4e01(A.Dante)\u7b49\u8457"}
+{"grade": " 7.4 ", "picture": "https://img3.doubanio.com/mpic/s27293174.jpg", "name": "\u6700\u540e\u4e00\u4e2a\u541f\u6e38\u8bd7\u4eba\u7684\u6b4c", "author": "(\u82f1)\u53f8\u5404\u7279"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s4036245.jpg", "name": "\u535a\u7eb3\u5bcc\u74e6/\u963f\u7c73\u4ea5", "author": "\u535a\u7eb3\u5bcc\u74e6"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s27992242.jpg", "name": "\u6625\u79cb\u6b63\u8f9e \u6625\u79cb\u516c\u7f8a\u7ecf\u4f20\u901a\u4e49", "author": "\u838a\u5b58\u8207"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s27229082.jpg", "name": "\u57df\u5916\u6240\u89c1\u4e2d\u56fd\u53e4\u53f2\u7814\u7a76\u8d44\u6599\u6c47\u7f16\u00b7\u671d\u9c9c\u6c49\u7c4d\u7bc7\uff08\u5168\u4e09\u5341\u518c\uff09", "author": "\u4e2d\u56fd\u793e\u4f1a\u79d1\u5b66\u9662\u5386\u53f2\u7814\u7a76\u6240\u6587\u5316\u53f2\u7814\u7a76\u5ba4"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s28342144.jpg", "name": "\u4e2d\u56fd\u5386\u4ee3\u300a\u8206\u670d\u5fd7\u300b\u7814\u7a76", "author": "\u534e\u6885"}
+{"grade": " 7.6 ", "picture": "https://img3.doubanio.com/mpic/s3917892.jpg", "name": "\u5341\u671d\u8bd7\u4e58", "author": "\u90ed\u5219\u6c84"}
+{"grade": " 9.3 ", "picture": "https://img3.doubanio.com/mpic/s1820130.jpg", "name": "\u5bd2\u67f3\u5802\u96c6", "author": "\u9648\u5bc5\u606a"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s6767084.jpg", "name": "\u73c2\u96ea\u9f4b\u96c6\uff08\u5168\u4e09\u518a\uff09", "author": "\u8881\u4e2d\u9053"}
+{"grade": " 7.3 ", "picture": "https://img1.doubanio.com/mpic/s2363789.jpg", "name": "\u8d28\u7591\u5220\u5b58", "author": "[\u6e05]\u5f20\u5b97\u6cf0 \u8463\u4e30\u57a3 \u738b\u7ecd\u5170\u64b0"}
+{"grade": " 7.7 ", "picture": "https://img1.doubanio.com/mpic/s26638778.jpg", "name": "\u8d8a\u7edd\u4e66\u6821\u91ca", "author": "\u674e\u6b65\u5609"}
+{"grade": " 8.0 ", "picture": "https://img3.doubanio.com/mpic/s1037271.jpg", "name": "\u5982\u4f55\u6210\u4e3a\u9876\u7ea7\u8bb0\u8005", "author": "\uff08\u7f8e\uff09\u6770\u91cc\u30fb\u65bd\u74e6\u8328"}
+{"grade": " 8.3 ", "picture": "https://img1.doubanio.com/mpic/s3400298.jpg", "name": "\u8fd1\u4ee3\u8bfb\u4e66\u4eba\u7684\u601d\u60f3\u4e16\u754c\u4e0e\u6cbb\u5b66\u53d6\u5411", "author": "\u7f57\u5fd7\u7530"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s27204622.jpg", "name": "\u5317\u5c71\u5f55\u6821\u6ce8", "author": "[\u5510]\u91ca\u795e\u6e05\u64b0"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s5781210.jpg", "name": "\u9999\u8349\u7eed\u6821\u4e66\uff08\u4e0a\u4e0b\uff09", "author": "\u4e8e\u9b2f"}
+{"grade": " 7.9 ", "picture": "https://img3.doubanio.com/mpic/s1455213.jpg", "name": "\u675c\u752b\u7684\u4e94\u57ce", "author": "\u8cf4\u745e\u548c"}
+{"grade": " 7.8 ", "picture": "https://img3.doubanio.com/mpic/s10432990.jpg", "name": "\u8bd1\u8bd7 \u00b7 \u8bf4\u8bdd\u4e0e\u6c89\u9ed8", "author": "\u6811\u624d\uff08\u7f16\uff09"}
+{"grade": " 7.2 ", "picture": "https://img1.doubanio.com/mpic/s26383677.jpg", "name": "\u6e34\u671b\u81ea\u7531", "author": "\u62c9\u4e4c\u5c14\u82cf\u91cc\u8fbe"}
+{"grade": " 7.9 ", "picture": "https://img3.doubanio.com/mpic/s1742986.jpg", "name": "\u74e6\u83b1\u91cc\u6563\u6587\u9009", "author": "\u74e6\u83b1\u91cc"}
+{"grade": " 7.5 ", "picture": "https://img3.doubanio.com/mpic/s1755822.jpg", "name": "\u5854\u675c\u65bd\u00b7\u9c81\u70ed\u7ef4\u5947\u8bd7\u9009\uff08\u4e0a\u4e0b\u518c\uff09", "author": "[\u6ce2\u5170]\u5854\u675c\u65bd\u00b7\u9c81\u70ed\u7ef4\u5947"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s28102676.jpg", "name": "\u7b80\u5e1b\u6587\u732e\u4e0e\u65e9\u671f\u5112\u5bb6\u5b66\u8bf4\u63a2\u8bba", "author": "\u5f90\u5c11\u534e"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s4250655.jpg", "name": "\u6d77\u4e0a\u89c1\u95fb\u5f55\u5b9a\u672c", "author": "\u962e\u65fb\u9521 \u539f\u8457"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s6894260.jpg", "name": "\u6234\u53d4\u502b\u8a69\u96c6\u6821\u6ce8", "author": "\u6234\u53d4\u4f26"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s27144740.jpg", "name": "\u6821\u8f91\u8fd1\u4ee3\u8bd7\u8bdd\u4e5d\u79cd", "author": "\u738b\u4f83\u7b49"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s5856920.jpg", "name": "\u767d\u82cf\u658b\u7c7b\u96c6", "author": "\uff08\u660e\uff09\u8881\u5b97\u9053"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s3268405.jpg", "name": "\u7891\u4f20\u96c6\uff08\u516812\u518c\uff09", "author": "(\u6e05)\u94b1\u4eea\u5409"}
+{"grade": " 8.6 ", "picture": "https://img3.doubanio.com/mpic/s3351022.jpg", "name": "\u5bd2\u67f3\u5802\u96c6", "author": "\u9648\u5bc5\u606a"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s8966179.jpg", "name": "\u8bd7\u8003 \u8bd7\u5730\u7406\u8003", "author": "[\u5b8b]\u738b\u5e94\u9e9f"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s2791163.jpg", "name": "\u8076\u9b6f\u9054\uff0f\u590f\u723e", "author": "\u8076\u9b6f\u9054"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s7013920.jpg", "name": "\u65e5\u636e\u65f6\u671f\u671d\u9c9c\u520a\u523b\u6c49\u7c4d\u6587\u732e\u76ee\u5f55", "author": "\u5085\u5fb7\u534e"}
+{"grade": " 8.1 ", "picture": "https://img3.doubanio.com/mpic/s26302895.jpg", "name": "\u5bd2\u67f3\u5802\u96c6", "author": "\u9673\u7f8e\u5ef6 \u7de8"}
+{"grade": " 7.6 ", "picture": "https://img3.doubanio.com/mpic/s4483452.jpg", "name": "\u968b\u5510\u957f\u5b89", "author": "\u8363\u65b0\u6c5f"}
+{"grade": " 8.6 ", "picture": "https://img1.doubanio.com/mpic/s1694098.jpg", "name": "\u4e2d\u56fd\u601d\u60f3\u53f2\uff08\u5168\u4e09\u518c\uff09", "author": "\u845b\u5146\u5149"}
+{"grade": " 8.3 ", "picture": "https://img3.doubanio.com/mpic/s2378736.jpg", "name": "\u5de5\u5382\u51fa\u53e3", "author": "\uff08\u6cd5\uff09\u5f17\u6717\u7d22\u74e6\u30fb\u90a6"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s8904794.jpg", "name": "\u6f58\u5b50\u6c42\u4ec1\u5f55\u8f91\u8981", "author": "[\u6e05]\u6f58\u5e73\u683c\u64b0"}
+{"grade": " 7.7 ", "picture": "https://img3.doubanio.com/mpic/s1931134.jpg", "name": "\u827a\u672f\u4e4b\u8def", "author": "\u3010\u6cd5\u3011\u4fdd\u5c14\u00b7\u514b\u6d1b\u5cb1\u5c14"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s28130711.jpg", "name": "\u7b80\u5e1b\u6587\u732e\u4e0e\u53e4\u4ee3\u53f2", "author": "\u6797\u5fd7\u9e4f"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s3030560.jpg", "name": "\u738b\u8239\u5c71\u8a69\u6587\u96c6\uff08\u5168\u4e8c\u518a\uff09", "author": "(\u6e05)\u738b\u592b\u4e4b"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s27461365.jpg", "name": "\u6587\u9009\u5b66", "author": "\u9a86\u9e3f\u51ef"}
+{"grade": " 7.8 ", "picture": "https://img3.doubanio.com/mpic/s5758043.jpg", "name": "\u5f59\u6821\u8a73\u6ce8\u95dc\u6f22\u537f\u96c6\uff08\u5168\u4e09\u518a\uff09", "author": "\u84dd\u7acb\u8431 \u6821\u6ce8"}
+{"grade": " 7.2 ", "picture": "https://img3.doubanio.com/mpic/s3378156.jpg", "name": "\u5f35\u4e5d\u9f61\u96c6\u6821\u6ce8\uff08\u5168\u4e09\u518a\uff09", "author": "(\u5510)\u5f20\u4e5d\u9f84"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s24556349.jpg", "name": "\u5c71\u8c37\u8bd7\u6ce8\u7eed\u8865", "author": "\uff08\u5b8b\uff09\u9ec4\u5ead\u575a \u8457  \u9648\u6c38\u6b63 \u4f55\u6cfd\u68e0\u6ce8"}
+{"grade": " 8.6 ", "picture": "https://img1.doubanio.com/mpic/s9984598.jpg", "name": "\u4e2d\u56fd\u73b0\u4ee3\u5b66\u672f\u7ecf\u5178\u00b7\u9648\u5bc5\u606a\u5377", "author": "\u9648\u5bc5\u606a"}
+{"grade": " 8.5 ", "picture": "https://img3.doubanio.com/mpic/s3492135.jpg", "name": "\u91d1\u660e\u9986\u4e1b\u7a3f\u4e8c\u7f16", "author": "\u9648\u5bc5\u606a"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s6878919.jpg", "name": "\u8d2f\u4f11\u6b4c\u8bd7\u7cfb\u5e74\u7b3a\u6ce8", "author": "[\u5510] \u8d2f\u4f11"}
+{"grade": " 7.6 ", "picture": "https://img3.doubanio.com/mpic/s6299746.jpg", "name": "\u6f22\u5236\u8003 \u6f22\u85dd\u6587\u5fd7\u8003\u8b49", "author": "[\u5b8b] \u738b\u61c9\u9e9f"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s6338445.jpg", "name": "\u6e05\u4ee3\u9996\u5c4a\u9a7b\u65e5\u516c\u4f7f\u9986\u5458\u7b14\u8c08\u8d44\u6599\u6c47\u7f16\uff08\u4e0a\u4e0b\uff09", "author": "\u5218\u96e8\u73cd \u7f16\u6821"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s3049753.jpg", "name": "\u9ad8\u4e3d\u53f2\u53f2\u7c4d\u6982\u8981", "author": "\u9ec4\u7eaf\u8273"}
+{"grade": " 8.5 ", "picture": "https://img3.doubanio.com/mpic/s1192070.jpg", "name": "\u4e03\u4e16\u7eaa\u81f3\u5341\u4e5d\u4e16\u7eaa\u4e2d\u56fd\u7684\u77e5\u8bc6\u3001\u601d\u60f3\u4e0e\u4fe1\u4ef0", "author": "\u845b\u5146\u5149"}
+{"grade": " 7.4 ", "picture": "https://img1.doubanio.com/mpic/s2378737.jpg", "name": "\u5973\u5deb\u5e08", "author": "\uff08\u6cd5\uff09\u739b\u4e3d\u30fb\u6069\u8fea\u8036"}
+{"grade": " 7.7 ", "picture": "https://img3.doubanio.com/mpic/s5684053.jpg", "name": "\u590f\u5cf0\u5148\u751f\u96c6", "author": "\uff08\u6e05\uff09\u5b59\u5947\u9022"}
+{"grade": " 8.4 ", "picture": "https://img3.doubanio.com/mpic/s1455635.jpg", "name": "\u7f8e\u7684\u5386\u9669", "author": "(\u82f1)\u5a01\u5ec9\u00b7\u5188\u7279"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s27206537.jpg", "name": "\u8868\u9762\u4e0e\u6df1\u5ea6", "author": "(\u7f8e)\u8212\u65af\u7279\u66fc(ShustermanR. )"}
+{"grade": " 8.2 ", "picture": "https://img3.doubanio.com/mpic/s1105901.jpg", "name": "\u738b\u8239\u5c71\u8a69\u6587\u96c6\uff08\u5168\u4e8c\u518a\uff09", "author": "\u738b\u592b\u4e4b"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s28295739.jpg", "name": "\u6bb7\u5468\u91d1\u6587\u65cf\u5fbd\u7814\u7a76", "author": "\u738b\u9577\u8c50"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s2792406.jpg", "name": "\u5217\u671d\u8bd7\u96c6\uff08\u516812\u518c\uff09", "author": "\u94b1\u8c26\u76ca\uff08\u64b0\u96c6\uff09"}
+{"grade": " 8.3 ", "picture": "https://img3.doubanio.com/mpic/s6150124.jpg", "name": "\u6bd4\u4e18\u5c3c\u4f20\u6821\u6ce8", "author": "\u91ca\u5b9d\u5531"}
+{"grade": " 7.8 ", "picture": "https://img3.doubanio.com/mpic/s2692772.jpg", "name": "\u7267\u658b\u521d\u5b66\u96c6\uff08\u5168\u4e09\u518c\uff09", "author": "[\u6e05]\u94b1\u8c26\u76ca \u64b0"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s9984555.jpg", "name": "\u4e2d\u56fd\u73b0\u4ee3\u5b66\u672f\u7ecf\u5178\uff1a\u4e25\u590d\u5377", "author": "\u4e25\u590d"}
+{"grade": " 8.2 ", "picture": "https://img3.doubanio.com/mpic/s26582605.jpg", "name": "\u5c71\u8c37\u8a69\u96c6\u6ce8\uff08\u5168\u4e8c\u518a\uff09", "author": "(\u5b8b)\u9ec4\u5ead (\u5b8b)\u4efb\u6e0a \u53f2\u5bb9 \u53f2\u5b63\u6e29\u6ce8"}
+{"grade": " 7.6 ", "picture": "https://img3.doubanio.com/mpic/s1050514.jpg", "name": "\u4eca\u8a00", "author": "\u90d1\u6653"}
+{"grade": " 9.5 ", "picture": "https://img1.doubanio.com/mpic/s1042068.jpg", "name": "\u901a\u5178(\u5168\u4e94\u518c)", "author": "\uff08\u5510\uff09\u675c\u4f51"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s27312432.jpg", "name": "\u674e\u9e3f\u85fb\u5e74\u8c31", "author": "\u674e\u5b97\u4f97"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s28281709.jpg", "name": "\u91d1\u660e\u9928\u53e2\u7a3f\u4e8c\u7de8", "author": "\u9648\u5bc5\u606a"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s3851988.jpg", "name": "\u5510\u671d\u4e2d\u592e\u96c6\u6743\u4e0e\u6c11\u65cf\u5173\u7cfb", "author": "\u674e\u9e3f\u5bbe"}
+{"grade": " 8.0 ", "picture": "https://img3.doubanio.com/mpic/s8962010.jpg", "name": "\u65b0\u53f2\u5b66\u00b7\u7b2c\u4e94\u5377\u00b7\u6e05\u53f2\u7814\u7a76\u7684\u65b0\u5883", "author": "\u6768\u5ff5\u7fa4\u4e3b\u7f16"}
+{"grade": " 8.6 ", "picture": "https://img3.doubanio.com/mpic/s5462700.jpg", "name": "\u73b0\u5f53\u4ee3\u82f1\u56fd\u77ed\u7bc7\u5c0f\u8bf4\u96c6", "author": "\u5916\u56fd\u6587\u827a\u7f16\u8f91\u90e8\u7f16"}
+{"grade": " 7.6 ", "picture": "https://img1.doubanio.com/mpic/s2183319.jpg", "name": "\u4e8c\u66f2\u96c6", "author": "\u674e\u9899"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s27416432.jpg", "name": "\u827a\u672f\u8bf8\u5b9a\u4e49", "author": "[\u65b0\u897f\u5170] \u65af\u8482\u82ac\u00b7\u6234\u7ef4\u65af"}
+{"grade": " 8.5 ", "picture": "https://img3.doubanio.com/mpic/s1080872.jpg", "name": "\u6d2a\u4eae\u5409\u96c6\uff08\u5168\u4e94\u518a\uff09", "author": "\u6e05)\u6d2a\u4eae\u5409"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s28123573.jpg", "name": "\u51e4\u9e23\u5c90\u5c71", "author": "\u5c71\u897f\u535a\u7269\u9662"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s28021158.jpg", "name": "\u4e24\u5468\u5c04\u793c\u7814\u7a76", "author": "\u8881\u4fca\u6770"}
+{"grade": " 8.6 ", "picture": "https://img1.doubanio.com/mpic/s6237908.jpg", "name": "\u4e09\u8bba\u7384\u4e49\u6821\u91ca", "author": "\u5409\u85cf"}
+{"grade": " 7.0 ", "picture": "https://img1.doubanio.com/mpic/s2881638.jpg", "name": "\u5de6\u5cb8", "author": "(\u7f8e)\u8d6b\u4f2f\u7279\u00b7\u6d1b\u7279\u66fc"}
+{"grade": " 8.5 ", "picture": "https://img1.doubanio.com/mpic/s4644888.jpg", "name": "\u9322\u6ce8\u675c\u8a69\uff08\u4e0a\u4e0b\uff09", "author": "[\u5510] \u675c\u752b \u8457"}
+{"grade": " 8.9 ", "picture": "https://img1.doubanio.com/mpic/s11126109.jpg", "name": "\u5c71\u8c37\u8bd7\u96c6\u6ce8\uff08\u4e0a\u4e0b\uff09", "author": "(\u5b8b)\u9ec4\u5ead\u575a\u64b0"}
+{"grade": " 7.7 ", "picture": "https://img3.doubanio.com/mpic/s1698822.jpg", "name": "\u5e9a\u5df3\u7f16 \u5ba2\u5ea7\u8d58\u8bed", "author": "(\u660e)\u9678\u7cb2"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s28031263.jpg", "name": "\u4e25\u4fee\u65e5\u8bb0\uff081876-1894\uff09", "author": "\u4e25\u4fee  \u539f\u8457"}
+{"grade": " 9.0 ", "picture": "https://img1.doubanio.com/mpic/s6382708.jpg", "name": "\u653f\u6cbb\u4e0e\u6587\u5b66", "author": "[\u82f1] \u4e54\u6cbb\u00b7\u5965\u5a01\u5c14"}
+{"grade": " 8.9 ", "picture": "https://img3.doubanio.com/mpic/s28050712.jpg", "name": "\u4e2d\u56fd\u53e4\u4ee3\u7269\u8d28\u6587\u5316", "author": "\u5b59\u673a"}
+{"grade": " 8.9 ", "picture": "https://img1.doubanio.com/mpic/s9116908.jpg", "name": "\u5085\u65af\u5e74\uff1a\u4e2d\u56fd\u8fd1\u4ee3\u5386\u53f2\u4e0e\u653f\u6cbb\u4e2d\u7684\u4e2a\u4f53\u751f\u547d", "author": "\u738b\u6c4e\u68ee"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s5811297.jpg", "name": "\u901a\u5178\uff08\u51683\u518c\uff09", "author": "\u5251\u91ce"}
+{"grade": " 7.6 ", "picture": "https://img3.doubanio.com/mpic/s1019580.jpg", "name": "\u6c34\u7a97\u6625\u5453", "author": "\u6b27\u9633\u5146\u718a"}
+{"grade": " 8.2 ", "picture": "https://img1.doubanio.com/mpic/s6139557.jpg", "name": "\u4eca\u65e5\u827a\u672f\u7406\u8bba", "author": "\u8bfa\u57c3\u5c14\u00b7\u5361\u7f57\u5c14"}
+{"grade": " 7.1 ", "picture": "https://img3.doubanio.com/mpic/s1881261.jpg", "name": "\u4e09\u4e2a\u5973\u4eba", "author": "[\u7f8e] \u683c\u7279\u9c81\u5fb7\u00b7\u65af\u5766\u56e0"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s28031959.jpg", "name": "\u6e05\u83ef\u5927\u5b78\u85cf\u6230\u570b\u7af9\u7c21\uff08\u4f0d\uff09", "author": "\u6e05\u83ef\u5927\u5b78\u51fa\u571f\u6587\u737b\u7814\u7a76\u8207\u4fdd\u8b77\u4e2d\u5fc3\u7de8"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s19322067.jpg", "name": "Definitions of Art", "author": "Davies, Stephen"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s28010918.jpg", "name": "\u300a\u7af9\u4e66\u7eaa\u5e74\u300b\u8003\uff08\u5168\u4e09\u518c\uff09", "author": "\u7a0b\u5e73\u5c71"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s26354319.jpg", "name": "\u4e2d\u56fd\u6700\u65e9\u7684\u5386\u53f2\u7a7a\u95f4\u821e\u53f0", "author": "\u9a6c\u4fdd\u6625"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s6915690.jpg", "name": "\u66fe\u4faf\u4e59\u5893\u7af9\u7b80\u91ca\u6587\u8865\u6b63\u66a8\u8f66\u9a6c\u5236\u5ea6\u7814\u7a76", "author": "\u8427\u5723\u4e2d"}
+{"grade": " 7.7 ", "picture": "https://img3.doubanio.com/mpic/s26964544.jpg", "name": "\u4e2d\u570b\u53e4\u6587\u5b57\u5b78\u5c0e\u8ad6", "author": "\u3010\u7f8e\u3011\u590f\u542b\u5937\u4e3b\u7de8"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s2517054.jpg", "name": "\u6885\u582f\u81e3\u96c6\u7f16\u5e74\u6821\u6ce8\uff08\u5168\u4e09\u518c\uff09", "author": "[\u5b8b] \u6885\u582f\u81e3"}
+{"grade": " 7.1 ", "picture": "https://img1.doubanio.com/mpic/s2928688.jpg", "name": "Libertad!\u81ea\u7531\u6d3e\u4f5c\u5bb6\u4eec", "author": "[\u6cd5]\u4e39\u2022\u5f17\u6717\u514b"}
+{"grade": " 7.4 ", "picture": "https://img3.doubanio.com/mpic/s1196154.jpg", "name": "\u7389\u955c\u65b0\u8c2d", "author": "\u3014\u660e\u3015\u6731\u957f\u795a"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s4693187.jpg", "name": "\u614e\u5b9c\u8f69\u65e5\u8bb0-\u4e0a\u4e0b\u518c", "author": "\u59da\u6c38\u6982"}
+{"grade": " 7.4 ", "picture": "https://img3.doubanio.com/mpic/s6474904.jpg", "name": "\u6587\u5b66\u662f\u4ec0\u4e48\uff1f", "author": "[\u7f8e]\u83b1\u65af\u5229\u00b7\u83f2\u5fb7\u52d2"}
+{"grade": " 7.9 ", "picture": "https://img3.doubanio.com/mpic/s28631786.jpg", "name": "\u6ce2\u65af\u548c\u4e2d\u56fd", "author": "\u4fde\u96e8\u68ee"}
+{"grade": " 9.3 ", "picture": "https://img3.doubanio.com/mpic/s27180674.jpg", "name": "\u4e2d\u56fd\u53e4\u8f3f\u670d\u8ad6\u53e2", "author": "\u5b6b\u6a5f"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s28003046.jpg", "name": "Fu Ssu-nien", "author": "Wang Fan-sen"}
+{"grade": " 8.2 ", "picture": "https://img3.doubanio.com/mpic/s1197513.jpg", "name": "\u5eb8\u9592\u9f4b\u7b46\u8a18", "author": "\u9648\u5176\u5143"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s12530530.jpg", "name": "Fu Ssu-nien", "author": "Fan-sen Wang"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s4638715.jpg", "name": "\u4e09\u4e2a\u5e73\u51e1\u7684\u5973\u4eba", "author": "[\u7f8e] \u683c\u7279\u9c81\u5fb7\u00b7\u65af\u5766\u56e0"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s28029459.jpg", "name": "\u51fa\u571f\u6587\u737b\uff08\u7b2c\u516d\u8f2f\uff09", "author": "\u6e05\u83ef\u5927\u5b78\u51fa\u571f\u6587\u737b\u7814\u7a76\u8207\u4fdd\u8b77\u4e2d\u5fc3"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s28035439.jpg", "name": "\u51fa\u571f\u6587\u732e\u4e0e\u53e4\u6587\u5b57\u7814\u7a76\uff08\u7b2c\u516d\u8f91\uff09", "author": "\u590d\u65e6\u5927\u5b66\u51fa\u571f\u6587\u732e\u4e0e\u53e4\u6587\u5b57\u7814\u7a76\u4e2d\u5fc3  \u7f16"}
+{"grade": " 7.7 ", "picture": "https://img3.doubanio.com/mpic/s4201585.jpg", "name": "\u65b0\u51fa\u7b80\u5e1b\u4e0e\u53e4\u6587\u5b57\u53e4\u6587\u732e\u7814\u7a76", "author": "\u8d75\u5e73\u5b89"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s27596185.jpg", "name": "\u5546\u5468\u91d1\u6587\u8f9e\u7c7b\u7e82", "author": "\u5f20\u6842\u5149"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s27907773.jpg", "name": "\u79e6\u5175\u9a6c\u4fd1\u7684\u8003\u53e4\u53d1\u73b0\u4e0e\u7814\u7a76", "author": "\u8881\u4ef2\u4e00"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s6094044.jpg", "name": "\u4e5d\u5e97\u695a\u7b80", "author": "\u6e56\u5317\u7701\u6587\u7269\u8003\u53e4\u7814\u7a76\u6240\uff0c\u5317\u4eac\u5927\u5b66\u4e2d\u6587\u7cfb\u7f16"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s23115853.jpg", "name": "\u897f\u5468\u738b\u671d\u7ecf\u8425\u56db\u571f\u7814\u7a76", "author": "\u5468\u4e66\u707f"}
+{"grade": " 7.0 ", "picture": "https://img3.doubanio.com/mpic/s3853513.jpg", "name": "\u5df4\u9ece\u4e0e\u5723\u5f7c\u5f97\u5821\u4e09\u767e\u5e74\u7f57\u66fc\u53f2", "author": "\u5f17\u62c9\u57fa\u7c73\u5c14\u00b7\u8d39\u591a\u6d1b\u592b\u65af\u57fa"}
+{"grade": " 8.7 ", "picture": "https://img3.doubanio.com/mpic/s28120762.jpg", "name": "\u957f\u5b89\u5ba2\u8bdd\u00b7\u914c\u4e2d\u5fd7", "author": "[\u660e] \u848b\u4e00\u8475"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s3461147.jpg", "name": "\u300a\u56de\u56de\u9986\u6742\u5b57\u300b\u4e0e\u300a\u56de\u56de\u9986\u8bd1\u8bed\u300b\u7814\u7a76", "author": "\u5218\u8fce\u80dc"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s21568302.jpg", "name": "\u8bba\u8bed\u4f1a\u7b3a\uff08\u51682\u518c\uff09", "author": "[\u65e5] \u7af9\u6dfb\u5149\u9e3f"}
+{"grade": " 7.7 ", "picture": "https://img3.doubanio.com/mpic/s6967540.jpg", "name": "\u6cbb\u653f\u4e0e\u4e8b\u541b", "author": "\u89e3\u626c"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s27249460.jpg", "name": "\u4e2d\u56fd\u53e4\u8206\u670d\u8bba\u4e1b", "author": "\u5b59\u673a"}
+{"grade": " 9.5 ", "picture": "https://img1.doubanio.com/mpic/s26164477.jpg", "name": "\u4e2d\u56fd\u53e4\u8206\u670d\u8bba\u4e1b", "author": "\u5b59\u673a"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s4224669.jpg", "name": "\u4e2d\u570b\u5927\u9678\u53e4\u7c4d\u5b58\u85cf\u6982\u6cc1", "author": "\u6f58\u7f8e\u6708"}
+{"grade": " 8.2 ", "picture": "https://img3.doubanio.com/mpic/s4579244.jpg", "name": "\u5f9e\u5b78\u751f\u904b\u52d5\u5230\u904b\u52d5\u5b78\u751f", "author": "\u5415\u82b3\u4e0a"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s26388280.jpg", "name": "\u8fd1\u4ee3\u4e2d\u56fd\u7684\u77e5\u8bc6\u4e0e\u5236\u5ea6\u8f6c\u578b", "author": "\u6851\u5175"}
+{"grade": " 8.0 ", "picture": "https://img1.doubanio.com/mpic/s6143417.jpg", "name": "\u4e16\u754c\u65f6\u95f4\u4e0e\u4e1c\u4e9a\u65f6\u95f4\u4e2d\u7684\u660e\u6e05\u53d8\u8fc1\uff08\u4e0b\u5377\uff09", "author": "[\u7f8e] \u53f8\u5f92\u7433 \u4e3b\u7f16"}
+{"grade": " 9.0 ", "picture": "https://img3.doubanio.com/mpic/s3017826.jpg", "name": "\u987e\u9889\u521a\u65e5\u8a18\uff08\u5168\u5341\u4e8c\u5377\uff09", "author": "\u987e\u9889\u521a"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s27198968.jpg", "name": "\u6e05\u83ef\u5927\u5b78\u85cf\u6230\u570b\u7af9\u7c21\uff08\u8086\uff09", "author": "\u6e05\u83ef\u5927\u5b78\u51fa\u571f\u6587\u737b\u7814\u7a76\u8207\u4fdd\u8b77\u4e2d\u5fc3\u7de8\u3001\u674e\u5b78\u52e4\u4e3b\u7de8"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s28007001.jpg", "name": "\u4e2d\u56fd\u5386\u4ee3\u5b98\u5236\u5927\u8f9e\u5178\uff08\u4fee\u8ba2\u7248\uff09", "author": "\u5f20\u653f\u70fa \u540d\u8a89\u4e3b\u7f16"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s27322338.jpg", "name": "\u6c49\u9b4f\u516d\u671d\u7891\u523b\u5f02\u4f53\u5b57\u5178", "author": "\u6bdb\u9060\u660e"}
+{"grade": " 9.0 ", "picture": "https://img3.doubanio.com/mpic/s4597331.jpg", "name": "\u6e05\u83ef\u5927\u5b78\u85cf\u6230\u570b\u7af9\u7c21\uff08\u58f9\uff09", "author": "\u6e05\u83ef\u5927\u5b78\u51fa\u571f\u6587\u737b\u7814\u7a76\u8207\u4fdd\u8b77\u4e2d\u5fc3\u7de8"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s3841017.jpg", "name": "\u897f\u5468\u518a\u547d\u91d1\u6587\u6240\u898b\u5b98\u5236\u7814\u7a76", "author": "\u6c6a\u4e2d\u6587"}
+{"grade": " 7.8 ", "picture": "https://img3.doubanio.com/mpic/s6989350.jpg", "name": "\u7f0e\u5b50\u978b", "author": "[\u6cd5] \u4fdd\u5c14\u00b7\u514b\u6d1b\u5cb1\u5c14"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s3657783.jpg", "name": "\u6d41\u5bc7\u5fd7", "author": "\uff08\u6e05\uff09\u5f6d\u5b59\u8d3b"}
+{"grade": " 7.1 ", "picture": "https://img3.doubanio.com/mpic/s6915142.jpg", "name": "\u8499\u7530\u610f\u5927\u5229\u4e4b\u65c5", "author": "\u7c73\u6b47\u5c14\u00b7\u5fb7\u00b7\u8499\u7530"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s27035782.jpg", "name": "\u65e5\u672c\u6c49\u6587\u53f2\u7c4d\u4e1b\u520a-\u7b2c\u4e00\u8f91\uff08\u5171\u5341\u4e5d\u518c\uff09", "author": "\u5b59\u9526\u6cc9"}
+{"grade": " 8.1 ", "picture": "https://img1.doubanio.com/mpic/s28268139.jpg", "name": "\u7eaa\u4e8b\u5f55\u7b3a\u8bc1", "author": "\u674e\u65b0\u5cf0 \u7b3a\u8bc1"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s4237945.jpg", "name": "\u660e\u592a\u7956\u7684\u6cbb\u570b\u7406\u5ff5\u53ca\u5176\u5be6\u8e10", "author": "\u6731\u9d3b\u6797"}
+{"grade": " 8.3 ", "picture": "https://img1.doubanio.com/mpic/s2841379.jpg", "name": "\u51b7\u5e90\u6587\u85ae\uff08\u4e0a\u4e0b\u4e24\u518c\uff09", "author": "\u738b\u91cd\u6c11"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s3882708.jpg", "name": "\u660e\u671d\u5609\u9756\u65f6\u671f\u56fd\u5bb6\u796d\u793c\u6539\u5236", "author": "\u8d75\u514b\u751f"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s3635509.jpg", "name": "\u6297\u6230\u524d\u7684\u6e05\u83ef\u5927\u5b78\uff081928-1937\uff09", "author": "\u8607\u96f2\u5cf0"}
+{"grade": " 7.6 ", "picture": "https://img3.doubanio.com/mpic/s26860263.jpg", "name": "\u79d1\u4e3e\u505c\u5e9f\u4e0e\u8fd1\u4ee3\u4e2d\u56fd\u793e\u4f1a", "author": "\u5173\u6653\u7ea2"}
+{"grade": " 8.1 ", "picture": "https://img3.doubanio.com/mpic/s6484326.jpg", "name": "\u987e\u9889\u521a\u4e66\u4fe1\u96c6", "author": "\u987e\u9889\u521a"}
+{"grade": " 7.8 ", "picture": "https://img1.doubanio.com/mpic/s10355409.jpg", "name": "\u4e16\u754c\u65f6\u95f4\u4e0e\u4e1c\u4e9a\u65f6\u95f4\u4e2d\u7684\u660e\u6e05\u53d8\u8fc1\uff08\u4e0a\u5377\uff09", "author": "[\u7f8e] \u53f8\u5f92\u7433 \u4e3b\u7f16"}
+{"grade": " 7.8 ", "picture": "https://img3.doubanio.com/mpic/s4115681.jpg", "name": "\u695a\u5730\u51fa\u571f\u6218\u56fd\u7b80\u518c", "author": "\u9648\u4f1f"}
+{"grade": " 7.9 ", "picture": "https://img3.doubanio.com/mpic/s24852752.jpg", "name": "\u5317\u4eac\u5927\u5b66\u85cf\u897f\u6c49\u7af9\u4e66-\u8d30", "author": "\u5317\u4eac\u5927\u5b66\u51fa\u571f\u6587\u732e\u7814\u7a76\u6240"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s28015217.jpg", "name": "\u738b\u5ff5\u5b59\u53e4\u7c4d\u6821\u672c\u7814\u7a76", "author": "\u5f20\u9526\u5c11"}
+{"grade": " 7.5 ", "picture": "https://img1.doubanio.com/mpic/s6477018.jpg", "name": "\u8d70\u8fd1\u6e05\u534e\u7b80", "author": "\u5218\u56fd\u5fe0"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s3826421.jpg", "name": "\u6cc9\u5c4b\u535a\u53e4\uff1a\u4e2d\u570b\u53e4\u9285\u5668\u7de8", "author": "\u6cc9\u5c4b\u535a\u53e4\u9928"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s3620156.jpg", "name": "\u5c1a\u66f8\u7814\u7a76\u8ad6\u96c6", "author": "\u5289\u5fb7\u6f22 \u7b49"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s3849283.jpg", "name": "\u4e2d\u7814\u9662\u5386\u53f2\u8bed\u8a00\u7814\u7a76\u6240\u96c6\u520a\u8bba\u6587\u7c7b\u7f16\u00b7\u8bed\u8a00\u6587\u5b57\u7f16\u00b7\u6587\u5b57\u5377\uff08\u5168\u56db\u518c\uff09", "author": "\u4e2d\u534e\u4e66\u5c40\u7f16\u8f91\u90e8\u7f16"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s28067004.jpg", "name": "\u5927\u5e2b\u8207\u9580\u5f92\uff08\u4e8c\u7248\uff09", "author": "\u55ac\u6cbb.\u53f2\u5766\u7d0d(George Steiner)"}
+{"grade": " 7.4 ", "picture": "https://img3.doubanio.com/mpic/s2913642.jpg", "name": "\u6155\u5e90\u5fc6\u5f80\uff1a\u738b\u53d4\u5cb7\u56de\u5fc6\u5f55", "author": "\u738b\u53d4\u5cb7"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s2761768.jpg", "name": "\u660e\u4ee3\u8499\u53e4\u53f2\u8bba\u96c6\uff08\u5168\u4e24\u518c\uff09", "author": "\u548c\u7530\u6e05"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s4212650.jpg", "name": "\u8ad6\u5b78\u96dc\u8457", "author": "\u8523\u5929\u6a1e"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s28268275.jpg", "name": "\u8521\u5143\u57f9\u81ea\u8ff0  \u5b9e\u5eb5\u81ea\u4f20", "author": "\u8521\u5143\u57f9"}
+{"grade": " 7.7 ", "picture": "https://img3.doubanio.com/mpic/s6454911.jpg", "name": "\u201c\u5927\u793c\u8bae\u201d\u4e0e\u660e\u5ef7\u4eba\u4e8b\u53d8\u5c40", "author": "\u80e1\u5409\u52cb"}
+{"grade": " 7.9 ", "picture": "https://img3.doubanio.com/mpic/s1673254.jpg", "name": "\u826f\u77e5\u5b66\u7684\u5c55\u5f00", "author": "\u5f6d\u56fd\u7fd4"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s27274382.jpg", "name": "\u8d70\u5411\u7edf\u4e00", "author": "\u7f57\u654f"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s3398312.jpg", "name": "\u8fd1\u4ee3\u53f2\u8d44\u6599\u6587\u5e93", "author": "\u5e84\u5efa\u5e73"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s28277468.jpg", "name": "Time, Temporality, And Imperial Transition", "author": "Lynn A. Struve (Editor)"}
+{"grade": " 8.0 ", "picture": "https://img1.doubanio.com/mpic/s9078798.jpg", "name": "\u7532\u9aa8\u6587\u5408\u96c6", "author": "\u90ed\u6cab\u82e5"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s2838837.jpg", "name": "\u6c49\u7b80\u7814\u7a76\u6587\u732e\u56db\u79cd\uff08\u5168\u4e24\u518c\uff09", "author": "\u52b3\u69a6\u7b49 \u64b0"}
+{"grade": " 7.4 ", "picture": "https://img3.doubanio.com/mpic/s28366252.jpg", "name": "\u53e4\u7c4d\u5c0e\u8b80", "author": "\u5c48\u842c\u91cc"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s4112047.jpg", "name": "\u53e4\u73ba\u901a\u8bba", "author": "\u66f9\u9526\u708e"}
+{"grade": " 9.6 ", "picture": "https://img3.doubanio.com/mpic/s6145352.jpg", "name": "\u4e2d\u56fd\u9752\u94dc\u5668\u7efc\u8bba\uff08\u5168\u4e09\u518c\uff09", "author": "\u6731\u51e4\u701a"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s3352045.jpg", "name": "\u53f2\u8a18\u6703\u6ce8\u8003\u8b49\u65a0\u8a02", "author": "\u56b4\u4e00\u840d"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s3865328.jpg", "name": "\u4e2d\u7814\u9662\u5386\u53f2\u8bed\u8a00\u7814\u7a76\u6240\u96c6\u520a\u8bba\u6587\u7c7b\u7f16\u00b7\u8003\u53e4\u7f16\uff08\u5168\u4e94\u518c\uff09", "author": "\u4e2d\u534e\u4e66\u5c40\u7f16\u8f91\u90e8\u7f16"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s16851419.jpg", "name": "Lessons of the Masters", "author": "George Steiner"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s4492092.jpg", "name": "\u9648\u5942\u4ea4\u6e38\u7814\u7a76", "author": "\u67f3\u5411\u6625"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s1213054.jpg", "name": "\u6d66\u6c5f\u6e05\u6587\u53f2\u6742\u6587\u96c6", "author": "\u6d66\u6c5f\u6e05"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s28391678.jpg", "name": "\u660e\u4ee3\u8499\u53e4\u53f2\u8bba\u96c6", "author": "\u548c\u7530\u6e05"}
+{"grade": " 8.1 ", "picture": "https://img3.doubanio.com/mpic/s6517171.jpg", "name": "\u5371\u673a\u4e2d\u7684\u53d8\u9769", "author": "\u8427\u529f\u79e6"}
+{"grade": " 8.8 ", "picture": "https://img1.doubanio.com/mpic/s27465659.jpg", "name": "\u77f3\u5ba4\u8cf8\u8a00", "author": "\u8f9b\u5fb7\u52c7"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s28586109.jpg", "name": "\u826f\u77e5\u5b66\u7684\u5c55\u5f00", "author": "\u5f6d\u56fd\u7fd4"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s28077417.jpg", "name": "\u4e2d\u56fd\u56fd\u6c11\u515a\u4e0e\u8d8a\u5357\u72ec\u7acb\u8fd0\u52a8", "author": "\u7f57\u654f"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s3848613.jpg", "name": "\u4f59\u7ecd\u5b8b\u65e5\u8bb0", "author": "\u4f59\u7ecd\u5b8b"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s4398651.jpg", "name": "\u7532\u9aa8\u6587\u4e0e\u6bb7\u5546\u53f2", "author": "\u80e1\u539a\u5ba3\u7f16"}
+{"grade": " 8.9 ", "picture": "https://img1.doubanio.com/mpic/s1456198.jpg", "name": "\u5386\u53f2\u4e09\u8c03", "author": "\u67ef\u6587"}
+{"grade": " 9.5 ", "picture": "https://img3.doubanio.com/mpic/s5726303.jpg", "name": "\u90ed\u5e97\u695a\u5893\u7af9\u7b80", "author": "\u8346\u95e8\u5e02\u535a\u7269\u9986\u7f16"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s11164259.jpg", "name": "\u53e4\u7c4d\u5c0e\u8b80", "author": "\u5c48\u842c\u91cc"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s4417450.jpg", "name": "\u51fa\u571f\u6587\u732e\u4e0e\u53e4\u6587\u5b57\u7814\u7a76\uff08\u7b2c\u4e09\u8f91\uff09", "author": "\u5218\u948a \u4e3b\u7f16"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s2758391.jpg", "name": "\u5c71\u5f6a\u9547\u4e0e\u7409\u7483\u9601", "author": "\u90ed\u5b9d\u94a7"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s2317034.jpg", "name": "\u6545\u8bad\u6750\u6599\u7684\u9274\u522b\u4e0e\u5e94\u7528", "author": "\u6731\u627f\u5e73"}
+{"grade": " 8.1 ", "picture": "https://img3.doubanio.com/mpic/s2670173.jpg", "name": "\u590f\u5546\u5468\u8003\u53e4\u5b66\u8bba\u6587\u96c6:\u7eed\u96c6", "author": "\u90b9\u8861"}
+{"grade": " 8.0 ", "picture": "https://img3.doubanio.com/mpic/s24559061.jpg", "name": "\u4e2d\u56fd\u201c\u8bd7\u53f2\u201d\u4f20\u7edf", "author": "\u5f20\u6656"}
+{"grade": " 8.4 ", "picture": "https://img3.doubanio.com/mpic/s1101882.jpg", "name": "\u4e2d\u4e16\u7eaa\u7684\u77e5\u8bc6\u5206\u5b50", "author": "[\u6cd5] \u96c5\u514b\u00b7\u52d2\u6208\u592b"}
+{"grade": " 8.9 ", "picture": "https://img3.doubanio.com/mpic/s2945495.jpg", "name": "\u53e4\u5178\u91cd\u6e29", "author": "\u5f90\u68b5\u6f84"}
+{"grade": " 7.7 ", "picture": "https://img3.doubanio.com/mpic/s27974964.jpg", "name": "\u660e\u4ee3\u6c5f\u5357\u571f\u5730\u5236\u5ea6\u7814\u7a76", "author": "[\u65e5]\u68ee\u6b63\u592b"}
+{"grade": " 9.3 ", "picture": "https://img1.doubanio.com/mpic/s4610509.jpg", "name": "\u83f2\u5229\u666e\u4e8c\u4e16\u65f6\u4ee3\u7684\u5730\u4e2d\u6d77\u548c\u5730\u4e2d\u6d77\u4e16\u754c\uff08\u4e0a\u4e0b\u5377\uff09", "author": "[\u6cd5] \u8d39\u5c14\u5357\u00b7\u5e03\u7f57\u4ee3\u5c14"}
+{"grade": " 9.2 ", "picture": "https://img3.doubanio.com/mpic/s3990822.jpg", "name": "\u79e6\u6c49\u653f\u533a\u4e0e\u8fb9\u754c\u5730\u7406\u7814\u7a76", "author": "\u8f9b\u5fb7\u52c7"}
+{"grade": " 8.1 ", "picture": "https://img3.doubanio.com/mpic/s4722964.jpg", "name": "\u9b4f\u664b\u5357\u5317\u671d\u53f2\u4e1b\u7a3f", "author": "\u4f55\u5fb7\u7ae0"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s4414530.jpg", "name": "\u77f3\u523b\u523b\u5de5\u7814\u7a76", "author": "\u7a0b\u7ae0\u707f"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s5641652.jpg", "name": "\u7c20\u658b\u91d1\u6587\u9898\u8bc6", "author": "\u9648\u4ecb\u797a"}
+{"grade": " 7.1 ", "picture": "https://img3.doubanio.com/mpic/s4665831.jpg", "name": "\u4e2d\u56fd\u653f\u575b\u4e0a\u7684\u6842\u7cfb", "author": "[\u52a0] \u6234\u5b89\u5a1c\u00b7\u62c9\u91cc"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s26282104.jpg", "name": "History in Three Keys", "author": "Paul A. Cohen"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s5645773.jpg", "name": "\u4e0a\u6d77\u535a\u7269\u9986\u85cf\u6218\u56fd\u695a\u7af9\u4e66(\u4e94)", "author": "\u9a6c\u627f\u6e90"}
+{"grade": " 8.5 ", "picture": "https://img1.doubanio.com/mpic/s26295139.jpg", "name": "History in Three Keys", "author": "Paul A. Cohen"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s3853737.jpg", "name": "\u65b0\u7532\u9aa8\u6587\u7f16", "author": "\u5289\u91d7"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s9188779.jpg", "name": "\u8fbd\u9648\u56fd\u516c\u4e3b\u5893", "author": "\u5185\u8499\u53e4\u81ea\u6cbb\u533a\u6587\u7269\u8003\u53e4\u7814\u7a76\u6240\u7b49\u7f16"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s1942419.jpg", "name": "\u534e\u4eba\u00b7\u9f99\u7684\u4f20\u4eba\u00b7\u4e2d\u56fd\u4eba", "author": "\u82cf\u79c9\u7426"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s4509418.jpg", "name": "\u530b\u9f4b(\u7aef\u65b9)\u5b58\u7258", "author": "\u95bb\u5d07\u74a9\u7de8"}
+{"grade": " 8.3 ", "picture": "https://img3.doubanio.com/mpic/s27223590.jpg", "name": "\u671d\u6b4c\u96c6", "author": "\u5f20\u6656"}
+{"grade": " 8.2 ", "picture": "https://img3.doubanio.com/mpic/s1997795.jpg", "name": "\u6cd5\u56fd\u53f2\u5b66\u9769\u547d", "author": "\u5f7c\u5f97\u00b7\u4f2f\u514b"}
+{"grade": " 9.1 ", "picture": "https://img1.doubanio.com/mpic/s1881999.jpg", "name": "\u8001\u5b50\u81c6\u89e3", "author": "\u5f90\u68b5\u6f84"}
+{"grade": " ", "picture": "https://img3.doubanio.com/f/shire/5522dd1f5b742d1e1394a17f44d590646b63871d/pics/book-default-medium.gif", "name": "\u660e\u4ee3\u6c5f\u5357\u571f\u5730\u5236\u5ea6\u306e\u7814\u7a76", "author": "\u68ee \u6b63\u592b"}
+{"grade": " 8.8 ", "picture": "https://img3.doubanio.com/mpic/s3658000.jpg", "name": "\u897f\u6c49\u653f\u533a\u5730\u7406", "author": "\u5468\u632f\u9e64"}
+{"grade": " 9.5 ", "picture": "https://img1.doubanio.com/mpic/s1943887.jpg", "name": "15\u81f318\u4e16\u7eaa\u7684\u7269\u8d28\u6587\u660e\u3001\u7ecf\u6d4e\u548c\u8d44\u672c\u4e3b\u4e49\uff08\u5168\u4e09\u5377\uff09", "author": "[\u6cd5] \u8d39\u5c14\u5357\u00b7\u5e03\u7f57\u4ee3\u5c14"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s28015589.jpg", "name": "\u9b4f\u664b\u5357\u5317\u671d\u968b\u5510\u7acb\u6cd5\u4e0e\u6cd5\u5f8b\u4f53\u7cfb\uff08\u4e0a\u3001\u4e0b\u5377\uff09", "author": "\u697c\u52b2"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s2847214.jpg", "name": "\u9646\u4f83\u5982\u53e4\u5178\u6587\u5b66\u8bba\u6587\u96c6\uff08\u5168\u4e24\u518c\uff09", "author": "\u9646\u4f83\u5982"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s8906438.jpg", "name": "\u5143\u671d\u53f2\u4e8b\u65b0\u8bc1", "author": "\u9648\u9ad8\u534e"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s27595681.jpg", "name": "Region and Nation", "author": "Diana Lary"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s27288844.jpg", "name": "Region and Nation", "author": "Diana Lary"}
+{"grade": " 7.2 ", "picture": "https://img3.doubanio.com/mpic/s1950554.jpg", "name": "\u968b\u5510\u4e94\u4ee3\u793e\u4f1a\u7ecf\u6d4e\u53f2\u8bba\u7a3f", "author": "\u80e1\u5982\u96f7"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s24478984.jpg", "name": "Reinventing Modern China", "author": "Huaiyin Li"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s2876922.jpg", "name": "Elite Activism and Political Transformation in China", "author": "Mary Backus Rankin"}
+{"grade": " 8.3 ", "picture": "https://img3.doubanio.com/mpic/s4055200.jpg", "name": "\u5ba3\u5316\u8fbd\u5893", "author": "\u674e\u6e05\u6cc9"}
+{"grade": " 8.9 ", "picture": "https://img3.doubanio.com/mpic/s2919691.jpg", "name": "\u6c88\u66fe\u690d\u5e74\u8c31\u957f\u7f16", "author": "\u8bb8\u5168\u80dc"}
+{"grade": " 8.7 ", "picture": "https://img3.doubanio.com/mpic/s1196142.jpg", "name": "\u5f90\u4e2d\u8212\u5386\u53f2\u8bba\u6587\u9009\u8f91\uff08\u4e0a\u4e0b\uff09", "author": "\u5f90\u4e2d\u8212"}
+{"grade": " 9.2 ", "picture": "https://img3.doubanio.com/mpic/s27227743.jpg", "name": "\u672b\u6cd5\u65f6\u4ee3\u7684\u58f0\u4e0e\u5149", "author": "\u5f20\u9716 \u7f16"}
+{"grade": " 8.6 ", "picture": "https://img3.doubanio.com/mpic/s6046254.jpg", "name": "\u6ce8\u53f2\u658b\u4e1b\u7a3f\uff08\u589e\u8ba2\u672c\uff09\uff08\u5168\u4e8c\u518c\uff09", "author": "\u725f\u6da6\u5b59"}
+{"grade": " 8.4 ", "picture": "https://img3.doubanio.com/mpic/s25996651.jpg", "name": "\u6613\u5b66\u53f2\u53d1\u5fae", "author": "\u6f58\u96e8\u5ef7"}
+{"grade": " 9.0 ", "picture": "https://img3.doubanio.com/mpic/s1733886.jpg", "name": "\u9ec4\u4f83\u56fd\u5b66\u6587\u96c6", "author": "\u9ec4\u4f83"}
+{"grade": " 9.3 ", "picture": "https://img3.doubanio.com/mpic/s2632726.jpg", "name": "\u4e25\u8015\u671b\u53f2\u5b66\u8bba\u6587\u9009\u96c6\uff08\u4e8c\u518c\uff09", "author": "\u4e25\u8015\u671b"}
+{"grade": " ", "picture": "https://img3.doubanio.com/mpic/s24966574.jpg", "name": "15\u81f318\u4e16\u7d00\u7684\u7269\u8cea\u6587\u660e\u3001\u7d93\u6fdf\u548c\u8cc7\u672c\u4e3b\u7fa9 \u5377\u4e00", "author": "\u8cbb\u723e\u5357 \u5e03\u52de\u5cb1\u723e FERNAND BRAUDEL"}
+{"grade": " ", "picture": "https://img1.doubanio.com/mpic/s3345988.jpg", "name": "\u9b4f\u6649\u5357\u671d\u6069\u8d66\u5236\u5ea6\u7684\u63a2\u8a0e", "author": "\u9673\u4fca\u5f37"}
+{"grade": " 8.4 ", "picture": "https://img3.doubanio.com/mpic/s23457316.jpg", "name": "\u665a\u660e\u4e0e\u665a\u6e05", "author": "\u9648\u5e73\u539f"}
